@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="@drawable/map_top_bg"
+    android:orientation="horizontal" >
+    <TextView
+          android:id="@+id/locus_person"
+          style="@style/pipeline_text"
+          android:layout_width="fill_parent"
+          android:layout_height="50dp"
+          android:layout_weight="1"
+          android:layout_marginLeft="5dp"
+          android:gravity="center"
+          android:maxLength="18"
+          android:background="@color/blue"
+          android:textColor="@color/black"
+          android:layout_marginTop="5dp"
+          android:hint="选择人员" />
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:background="#cdcdb4"
+        android:gravity="center" />
+    <TextView
+          android:id="@+id/locus_date"
+          style="@style/pipeline_text"
+          android:layout_width="fill_parent"
+          android:layout_height="50dp"
+          android:layout_weight="1"
+          android:gravity="center"
+          android:background="@color/blue"
+          android:textColor="@color/black"
+          android:layout_marginTop="5dp"
+          android:layout_marginLeft="5dp"
+          android:hint="选择日期" />
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:background="#cdcdb4"
+        android:gravity="center" />
+	<ImageView
+        android:id="@+id/locus_map_start"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:background="@drawable/bg_selector"
+        android:src="@drawable/map_start"
+        android:layout_marginTop="5dp"
+        android:clickable="true"/>
+
+</LinearLayout>

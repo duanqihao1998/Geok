@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <com.baidu.mapapi.map.MapView
+        android:id="@+id/bmapView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:clickable="true" />
+
+    <LinearLayout
+        android:id="@+id/top_background"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/map_top_bg" >
+
+        <ImageView
+            android:id="@+id/map_locate"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/bg_selector"
+            android:clickable="true"
+            android:src="@drawable/map_monitor_selector" />
+
+        <ImageView
+            android:id="@+id/map_layer"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/bg_selector"
+            android:clickable="true"
+            android:src="@drawable/map_locus_selector" />
+
+        <ImageView
+            android:id="@+id/map_search"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/bg_selector"
+            android:clickable="true"
+            android:src="@drawable/map_search_selector" />
+
+        <ImageView
+            android:id="@+id/map_other"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/bg_selector"
+            android:clickable="true"
+            android:src="@drawable/map_other_selector" />
+    </LinearLayout>
+
+</FrameLayout>

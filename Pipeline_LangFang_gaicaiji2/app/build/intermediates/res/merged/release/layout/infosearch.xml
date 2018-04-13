@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_bg_blue"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/search_tittle" >
+
+        <Button
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/back_selector" />
+
+        <Button
+            android:id="@+id/main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/main_selector" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/line_infosearch_bt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:gravity="center_horizontal" >
+
+        <RelativeLayout
+            android:id="@+id/info_bt_relayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/infosearch_info"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/menu_current_info_selector" />
+
+            <TextView
+                android:id="@+id/infosearch_info_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/infosearch_info"
+                android:layout_alignRight="@id/infosearch_info"
+                android:layout_below="@id/infosearch_info"
+                android:gravity="center_horizontal"
+                android:text="当前管线信息查询"
+                android:textColor="#1b52ab"
+                android:textSize="13sp" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/infosearch_bt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:gravity="center_horizontal" >
+		<RelativeLayout
+            android:id="@+id/line_info_bt_relayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/line_info"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/menu_info_selector" />
+
+            <TextView
+                android:id="@+id/line_info_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/line_info"
+                android:layout_alignRight="@id/line_info"
+                android:layout_below="@id/line_info"
+                android:gravity="center_horizontal"
+                android:text="管线信息查询"
+                android:textColor="#1b52ab"
+                android:textSize="13sp" />
+        </RelativeLayout>
+        
+
+        <RelativeLayout
+            android:id="@+id/accessment_bt_relayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="60dp"
+            android:layout_toRightOf="@+id/line_info_bt_relayout" >
+
+            <Button
+                android:id="@+id/infosearch_assessment"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/menu_assessment_selector" />
+
+            <TextView
+                android:id="@+id/infosearch_assessment_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/infosearch_assessment"
+                android:layout_alignRight="@id/infosearch_assessment"
+                android:layout_below="@id/infosearch_assessment"
+                android:gravity="center_horizontal"
+                android:text="巡检考核信息查询"
+                android:textColor="#1b52ab"
+                android:textSize="13sp" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout>

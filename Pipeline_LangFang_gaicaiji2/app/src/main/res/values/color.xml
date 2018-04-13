@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow">#FFD39B</color>
+    <color name="black">#000000</color>
+    <color name="blue">#1C86EE</color>
+    <color name="white">#FCFCFC</color>
+    <color name="red">#FF0000</color>
+    <color name="offnet">#FFEFDB</color>
+    <color name="progressdialog">#4F86BF</color>
+</resources>

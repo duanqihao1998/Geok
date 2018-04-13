@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:panel="http://schemas.android.com/apk/res/com.geok.langfang.pipeline"
+    xmlns:btn="http://schemas.android.com/apk/res/com.geok.langfang.pipeline"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="ResAuto">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/main_bg" >
+
+        <RelativeLayout
+            android:id="@+id/mywork_tittle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:background="#0170b1">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:textColor="@color/white"
+                android:text="关键点采集"
+                android:textSize="18dp" />
+
+            <Button
+                android:id="@+id/back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="5dp"
+                android:background="@drawable/return_button" />
+
+            <Button
+                android:id="@+id/main"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="5dp"
+                android:background="@drawable/setting_button" />
+        </RelativeLayout>
+
+        
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/mywork_tittle"
+            android:layout_marginTop="10dp" >
+
+            <LinearLayout
+                android:id="@+id/protect_scroll"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/circle_cornor_line"
+                android:orientation="vertical" >
+<!-- 
+                <RelativeLayout
+                    android:id="@+id/keypoint_department"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/listitem_selector"
+                    android:clickable="true" >
+
+                    <include layout="@layout/asterisk" />
+
+                    <TextView
+                        style="@style/pipeline_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="40dp"
+                        android:layout_alignParentLeft="true"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="10dp"
+                        android:text="归属部门：" />
+
+                    <TextView
+                        android:id="@+id/text_keypoint_department"
+                        style="@style/pipeline_text"
+                        android:layout_width="120sp"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:gravity="right|center_vertical"
+                        android:paddingRight="10dp"
+                        android:singleLine="true"
+                        android:text="填写部门" />
+                </RelativeLayout>
+  -->               
+                <RelativeLayout
+                    android:id="@+id/keypoint_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/listitem_selector"
+                    android:clickable="true" >
+
+                    <include layout="@layout/asterisk" />
+
+                    <TextView
+                        style="@style/pipeline_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="40dp"
+                        android:layout_alignParentLeft="true"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="10dp"
+                        android:text="关键点名称：" />
+
+                    <TextView
+                        android:id="@+id/text_keypoint_name"
+                        style="@style/pipeline_text"
+                        android:layout_width="120sp"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:gravity="right|center_vertical"
+                        android:paddingRight="10dp"
+                        android:singleLine="true"
+                        android:text="填写名称" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/keypoint_line"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/listitem_selector" >
+
+                    <include layout="@layout/asterisk" />
+
+                    <TextView
+                        style="@style/pipeline_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:paddingLeft="10dp"
+                        android:text="线 路：" />
+
+                    <TextView
+                        android:id="@+id/text_keypoint_line"
+                        style="@style/pipeline_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@+id/listitem_select_text1"
+                        android:singleLine="true"
+                        android:text="选择线路" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:paddingRight="5dp"
+                        android:src="@drawable/arrow" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/keypoint_pile"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/listitem_selector" >
+
+                    <include layout="@layout/asterisk" />
+
+                    <TextView
+                        style="@style/pipeline_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:paddingLeft="10dp"
+                        android:text="桩 号：" />
+
+                    <TextView
+                        android:id="@+id/text_keypoint_pile"
+                        style="@style/pipeline_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@+id/listitem_select_text1"
+                        android:singleLine="true"
+                        android:text="选择桩号" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:paddingRight="5dp"
+                        android:src="@drawable/arrow" />
+                </RelativeLayout>
+                
+                <RelativeLayout
+                    android:id="@+id/keypoint_offset"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/listitem_selector"
+                    android:clickable="true" >
+
+                    <include layout="@layout/asterisk" />
+
+                    <TextView
+                        style="@style/pipeline_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="40dp"
+                        android:layout_alignParentLeft="true"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="10dp"
+                        android:text="偏移量（m）：" 
+                        />
+
+                    <TextView
+                        android:id="@+id/text_keypoint_offset"
+                        style="@style/pipeline_text"
+                        android:layout_width="120sp"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:gravity="right|center_vertical"
+                        android:paddingRight="10dp"
+                        android:singleLine="true"
+                        android:text="填写偏移量" 
+                        />
+                </RelativeLayout>
+                
+                <RelativeLayout
+                    android:id="@+id/keypoint_buffer"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/listitem_selector"
+                    android:clickable="true" >
+
+                    <include layout="@layout/asterisk" />
+
+                    <TextView
+                        style="@style/pipeline_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="40dp"
+                        android:layout_alignParentLeft="true"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="10dp"
+                        android:text="缓冲范围（m）：" 
+                        />
+
+                    <TextView
+                        android:id="@+id/text_keypoint_buffer"
+                        style="@style/pipeline_text"
+                        android:layout_width="120sp"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:gravity="right|center_vertical"
+                        android:paddingRight="10dp"
+                        android:singleLine="true"
+                        android:text="50" 
+                        />
+                </RelativeLayout>
+                
+                <RelativeLayout
+                    android:id="@+id/keypoint_start"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/listitem_selector"
+                    android:clickable="true" >
+
+                    <include layout="@layout/asterisk" />
+
+                    <TextView
+                        style="@style/pipeline_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="40dp"
+                        android:layout_alignParentLeft="true"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="10dp"
+                        android:text="有效起始日期：" />
+
+                    <TextView
+                        android:id="@+id/text_keypoint_start"
+                        style="@style/pipeline_text"
+                        android:layout_width="120sp"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:gravity="right|center_vertical"
+                        android:paddingRight="10dp"
+                        android:singleLine="true"
+                        android:text="设置日期" />
+                </RelativeLayout>
+                
+                <RelativeLayout
+                    android:id="@+id/keypoint_end"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/listitem_selector"
+                    android:clickable="true" >
+
+                    <include layout="@layout/asterisk" />
+
+                    <TextView
+                        style="@style/pipeline_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="40dp"
+                        android:layout_alignParentLeft="true"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="10dp"
+                        android:text="有效终止日期：" />
+
+                    <TextView
+                        android:id="@+id/text_keypoint_end"
+                        style="@style/pipeline_text"
+                        android:layout_width="120sp"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:gravity="right|center_vertical"
+                        android:paddingRight="10dp"
+                        android:singleLine="true"
+                        android:text="设置日期" />
+                </RelativeLayout>
+                
+                <LinearLayout
+                    android:id="@+id/keypoint_description"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="6dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/listitem_selector"
+                    android:clickable="true"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        style="@style/pipeline_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:gravity="center"
+                        android:paddingLeft="5dp"
+                        android:paddingTop="5dp"
+                        android:text="描述：" />
+
+                    <EditText
+                        android:id="@+id/text_keypoint_description"
+                        style="@style/pipeline_text"
+                        android:layout_width="match_parent"
+                        android:layout_height="70dp"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:background="@null"
+                        android:gravity="top"
+                        android:text="" />
+                </LinearLayout>
+                <!-- 
+                <Button 
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginBottom="40dp"
+                    android:layout_gravity="right"
+                    android:background="@drawable/btn_press"
+                    android:id="@+id/keypoint_coordinate"
+                    android:text="获取坐标"
+                    android:textColor="@color/white"
+                    android:textSize="15sp"
+                    style="@style/circle_text"
+                    />
+                     -->
+				</LinearLayout>
+            
+        </ScrollView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/main_bg"
+            android:orientation="vertical"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <com.geok.langfang.tools.MyImageButton
+                    android:visibility="gone"
+                    android:id="@+id/bnew_ground"
+                    android:layout_width="100dp"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/btn_press"
+                    btn:src="@drawable/reset"
+                    btn:text="@string/reset" />
+
+                <com.geok.langfang.tools.MyImageButton
+                    android:visibility="gone"
+                    android:id="@+id/bsave_ground"
+                    android:layout_width="100dp"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/btn_press"
+                    btn:src="@drawable/save"
+                    btn:text="@string/save" />
+                <Button
+                    android:id="@+id/bupload_ground"
+                    android:layout_width="0dp"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/btn_press"
+                    android:textColor="@drawable/textcolor"
+                    android:src="@drawable/upcoming"
+                    android:text="@string/upload"
+                    android:gravity="center"/>
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <com.geok.langfang.tools.Panel
+        android:visibility="gone"
+        android:id="@+id/pipeline_panel"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_gravity="left"
+        panel:animationDuration="1000"
+        panel:closedHandle="@drawable/left_switcher_collapsed_background"
+        panel:content="@+id/panelContent"
+        panel:handle="@+id/panelHandle"
+        panel:linearFlying="true"
+        panel:openedHandle="@drawable/left_switcher_expanded_background"
+        panel:position="left" >
+
+        <Button
+            android:id="@+id/panelHandle"
+            android:layout_width="20dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />
+
+        <LinearLayout
+            android:id="@+id/panelContent"
+            android:layout_width="85dp"
+            android:layout_height="fill_parent"
+            android:background="@drawable/panel_bg"
+            android:orientation="vertical" >
+
+            <ListView
+                android:id="@+id/protect_panel_list"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:cacheColorHint="#00000000" >
+            </ListView>
+        </LinearLayout>
+    </com.geok.langfang.tools.Panel>
+
+</FrameLayout>

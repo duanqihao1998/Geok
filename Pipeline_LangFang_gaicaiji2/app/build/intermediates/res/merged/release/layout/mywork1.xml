@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:panel="http://schemas.android.com/apk/res/com.geok.langfang.pipeline"
+    xmlns:btn="http://schemas.android.com/apk/res/com.geok.langfang.pipeline"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="ResAuto">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white" >
+
+        <RelativeLayout
+            android:id="@+id/mywork_tittle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:background="#0170b1">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:textColor="@color/white"
+                android:text="我的任务"
+                android:textSize="18dp" />
+
+            <Button
+                android:id="@+id/back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="5dp"
+                android:background="@drawable/return_button" />
+
+            <Button
+                android:id="@+id/main"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="5dp"
+                android:background="@drawable/setting_button" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/mywork1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/mywork_tittle"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/tittle_num"
+                android:layout_width="wrap_content"
+                android:textColor="#1b52ab"
+                android:textSize="20sp"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:paddingLeft="10dp"
+                android:text="我的任务"
+                android:textStyle="bold"/>
+
+            <ImageView
+                android:visibility="gone"
+                android:id="@+id/workList"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/historylist" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/mywork"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/mywork1"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp" >
+
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/viewgroup_mywork"
+                android:layout_width="fill_parent"
+                android:layout_height="120dp"
+                android:layout_alignParentTop="true"
+                android:layout_gravity="center"
+                android:background="@drawable/circle_cornor_line"
+                android:flipInterval="1000"
+                android:persistentDrawingCache="animation" />
+
+            <LinearLayout
+                android:id="@+id/image_group"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal" >
+            </LinearLayout>
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/bottom_button"
+            android:layout_below="@+id/mywork"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp" >
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/mytask"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_gravity="center"
+                android:layout_marginBottom="12dp"
+                android:layout_weight="1.0"
+                android:background="@drawable/circle_cornor_line"
+                android:flipInterval="1000"
+                android:paddingBottom="8dp"
+                android:persistentDrawingCache="animation" />
+
+            <LinearLayout
+                android:id="@+id/image_group1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/bottom_button"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp" >
+
+            <com.geok.langfang.tools.MyImageButton
+                android:visibility="gone"
+                android:id="@+id/start_button"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:background="@drawable/btn_press"
+                btn:src="@drawable/start"
+                btn:text="@string/start" />
+
+            <com.geok.langfang.tools.MyImageButton
+                android:id="@+id/pause_button"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:background="@drawable/btn_press"
+                android:visibility="gone"
+                btn:src="@drawable/pause"
+                btn:text="@string/pause" />
+
+            <com.geok.langfang.tools.MyImageButton
+                android:id="@+id/accept_button"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:background="@drawable/wancheng"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <com.geok.langfang.tools.Panel
+        android:visibility="gone"
+        android:id="@+id/pipeline_panel"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_gravity="left"
+        panel:animationDuration="1000"
+        panel:closedHandle="@drawable/left_switcher_collapsed_background"
+        panel:content="@+id/panelContent"
+        panel:handle="@+id/panelHandle"
+        panel:linearFlying="true"
+        panel:openedHandle="@drawable/left_switcher_expanded_background"
+        panel:position="left" >
+
+        <Button
+            android:id="@+id/panelHandle"
+            android:layout_width="20dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />
+
+        <LinearLayout
+            android:id="@+id/panelContent"
+            android:layout_width="90dp"
+            android:layout_height="fill_parent"
+            android:background="@drawable/panel_bg"
+            android:orientation="vertical" >
+
+            <ListView
+                android:id="@+id/mywork_panel_list"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="50dp"
+                android:cacheColorHint="#00000000" >
+            </ListView>
+        </LinearLayout>
+    </com.geok.langfang.tools.Panel>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/hhhhh"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginEnd="31dp"
+            android:layout_marginRight="31dp"
+            android:layout_marginTop="47dp"
+            android:layout_toLeftOf="@+id/shangbao"
+            android:layout_toStartOf="@+id/shangbao"
+            android:src="@drawable/map_icon" />
+
+        <ImageView
+            android:id="@+id/shangbao"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/hhhhh"
+            android:layout_marginEnd="64dp"
+            android:layout_marginRight="64dp"
+            android:src="@drawable/sahngbao_icon" />
+    </RelativeLayout>
+
+</FrameLayout>

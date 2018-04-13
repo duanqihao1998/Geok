@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\values-ldrtl-v23\\values-ldrtl-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.1.aar\\83dd7ce97c7253665110f74144a57d57\\res\\values-ldrtl-v23\\values-ldrtl-v23.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "240",
+                        "endColumns": "112",
+                        "endOffsets": "348"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldrtl-v23\\values-ldrtl-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.1.aar\\83dd7ce97c7253665110f74144a57d57\\res\\values-ldrtl-v23\\values-ldrtl-v23.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "240",
+                        "endColumns": "112",
+                        "endOffsets": "348"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

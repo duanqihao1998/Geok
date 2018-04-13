@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+    
+<!-- initExtent = "12899459.4956466, 4815363.65520802, 13004178.2243971, 4882704.67712717" 北京范围
+initExtent="-104883832.73176, -100232581.393484, 97369767.1032161, 37681831.497084" 亚洲
+-->
+	<com.baidu.mapapi.map.MapView
+        android:id="@+id/baidumapView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:clickable="true" />
+
+    <LinearLayout
+        android:id="@+id/top_background"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:background="@color/blue"
+        android:layout_alignParentTop="true"
+         >
+
+        <ImageView
+            android:id="@+id/map_monitor"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/bg_selector"
+            android:clickable="true"
+            android:src="@drawable/map_monitor_selector" />
+
+        <ImageView
+            android:id="@+id/map_locus"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/bg_selector"
+            android:clickable="true"
+            android:src="@drawable/map_locus_selector" />
+
+        <ImageView
+            android:id="@+id/map_search"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/bg_selector"
+            android:clickable="true"
+            android:src="@drawable/map_search_selector" />
+
+        <ImageView
+            android:id="@+id/map_other"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/bg_selector"
+            android:clickable="true"
+            android:src="@drawable/map_other_selector" />
+    </LinearLayout>
+    <Button 
+        android:id="@+id/map_other_move"
+ 	    android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="标记"
+   		android:layout_alignParentRight="true"
+   		android:layout_below="@+id/top_background"
+   		android:visibility="gone"
+        />
+ 	<TextView 
+ 	    android:id="@+id/map_message"
+ 	    android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:text="1234"
+        android:gravity="center"
+        style="@style/map_message"
+        android:layout_margin="5sp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:visibility="gone"
+        android:background="@drawable/circle_cornor_line_black"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+		/>
+</RelativeLayout>

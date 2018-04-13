@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_bg" >
+
+    <RelativeLayout
+        android:id="@+id/keypoint_tittle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/title_keypoint" >
+
+        <Button
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/back_selector" />
+
+        <Button
+            android:id="@+id/main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/main_selector" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/keypoint_tittle" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/circle_cornor_line"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/keypoint_detail_name"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="关键点名称：" />
+
+            <TextView
+                android:id="@+id/keypoint_detail_cor"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="坐标：" />
+
+            <TextView
+                android:id="@+id/keypoint_detial_line"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="管线位置：" />
+
+            
+            <TextView
+                android:id="@+id/keypoint_detial_offset"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="检漏时间：" />
+            <TextView
+                android:id="@+id/keypoint_detial_buffer"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="检漏时间：" />
+
+            <TextView
+                android:id="@+id/keypoint_detial_validitystart"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="环周位置：" />
+
+            <TextView
+                android:id="@+id/keypoint_detial_validityend"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="土壤环境描述：" />
+
+            <TextView
+                android:id="@+id/keypoint_detial_description"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="破损外观描述：" />
+
+           
+
+            <TextView
+                android:id="@+id/keypoint_detial9"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="备注：" />
+
+            <TextView
+                android:id="@+id/keypoint_detial_isupload"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="是否上报服务器：" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="20dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

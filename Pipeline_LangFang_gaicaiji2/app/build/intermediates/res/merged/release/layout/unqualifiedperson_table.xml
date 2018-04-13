@@ -1,0 +1,188 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/title_table"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="不合格巡检人员统计表"
+                android:textColor="@color/black"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+            android:background="@drawable/rectangle_cornor_line"
+            android:orientation="vertical" >
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.5dp"
+                android:background="#000000" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:layout_weight="1"
+                    android:text="序号"
+                    android:textColor="#000000"
+                    android:textSize="10sp" />
+
+                <View
+                    android:layout_width="0.5px"
+                    android:layout_height="fill_parent"
+                    android:background="#000000"
+                    android:visibility="visible" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:layout_weight="1"
+                    android:text="所属部门"
+                    android:textColor="#000000"
+                    android:textSize="10sp" />
+
+                <View
+                    android:layout_width="0.5px"
+                    android:layout_height="fill_parent"
+                    android:background="#000000"
+                    android:visibility="visible" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:layout_weight="1"
+                    android:text="巡检人员"
+                    android:textColor="#000000"
+                    android:textSize="10sp" />
+
+                <View
+                    android:layout_width="0.5px"
+                    android:layout_height="fill_parent"
+                    android:background="#000000"
+                    android:visibility="visible" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:layout_weight="1"
+                    android:text="合格率评分"
+                    android:textColor="#000000"
+                    android:textSize="10sp" />
+
+                <View
+                    android:layout_width="0.5px"
+                    android:layout_height="fill_parent"
+                    android:background="#000000"
+                    android:visibility="visible" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="#000000" />
+
+            <LinearLayout
+                android:id="@+id/linearlayout_all"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:layout_weight="1"
+                    android:text="1432"
+                    android:textColor="#000000"
+                    android:textSize="10sp" />
+
+                <View
+                    android:layout_width="0.5px"
+                    android:layout_height="fill_parent"
+                    android:background="#000000"
+                    android:visibility="visible" />
+
+                <TextView
+                    android:id="@+id/linearlong"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:layout_weight="1"
+                    android:text="巡检"
+                    android:textColor="#000000"
+                    android:textSize="10sp" />
+
+                <View
+                    android:layout_width="0.5px"
+                    android:layout_height="fill_parent"
+                    android:background="#000000"
+                    android:visibility="visible" />
+
+                <TextView
+                    android:id="@+id/textviewlong"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:layout_weight="1"
+                    android:text="张三丰"
+                    android:textColor="#000000"
+                    android:textSize="10sp" />
+
+                <View
+                    android:layout_width="0.5px"
+                    android:layout_height="fill_parent"
+                    android:background="#000000"
+                    android:visibility="visible" />
+
+                <TextView
+                    android:id="@+id/lastkong"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:layout_weight="1"
+                    android:text="85"
+                    android:textColor="#000000"
+                    android:textSize="10sp" />
+
+                <View
+                    android:layout_width="0.5px"
+                    android:layout_height="fill_parent"
+                    android:background="#000000"
+                    android:visibility="visible" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="#000000" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

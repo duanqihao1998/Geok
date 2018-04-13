@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="5dp"
+    android:background="@drawable/listitem_selector"
+    android:descendantFocusability="blocksDescendants" >
+
+    <ImageView
+        android:id="@+id/sync_list_image1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="4dp"
+        android:src="@drawable/sync_pile" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/sync_list_image1" >
+
+        <TextView
+            android:id="@+id/sync_tittle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:paddingLeft="10dp"
+            android:text="桩信息同步"
+            android:textColor="#1b52ab"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/sync_dot_line"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/sync_tittle"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/dot_line" />
+
+        <TextView
+            android:id="@+id/sync_time"
+            style="@style/checbox_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/sync_dot_line"
+            android:paddingLeft="10dp"
+            android:text="2012年12月21日 0点20分" />
+
+        <TextView
+            android:id="@+id/sync_flag"
+            style="@style/datalist_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/sync_time"
+            android:layout_gravity="left"
+            android:layout_marginLeft="10dp" />
+
+        <Button
+            android:id="@+id/sync_bt"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/sync_dot_line"
+            android:background="@drawable/button_shape"
+            android:text="开始同步" 
+            style="@style/bt_text"
+           />
+    </RelativeLayout>
+
+</RelativeLayout>

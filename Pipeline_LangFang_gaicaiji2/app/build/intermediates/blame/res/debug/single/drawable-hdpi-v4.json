@@ -1,0 +1,1654 @@
+[
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circle_l.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\circle_l.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_area_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_area_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\work_tittle.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\work_tittle.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bg_04.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\top_bg_04.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_other.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_other.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_item_arrow.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\attach_item_arrow.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plan_list_devide1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\plan_list_devide1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sj_menu1_selector.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\sj_menu1_selector.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab2_on.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\tab2_on.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_pile.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_pile.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab1_off.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\tab1_off.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sync_02.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\sync_02.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back_selector.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\back_selector.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back_selector.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\back_selector.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_image.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\login_image.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_selected.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_selected.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_online_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_online_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_image.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\login_image.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_assessment_selector.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\menu_assessment_selector.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\calendar.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\calendar.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\item_bg.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\item_bg.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\next.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\next.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_distance_1.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_distance_1.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\before.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\before.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circle_o.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\circle_o.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab2_on.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\tab2_on.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab1_on.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\tab1_on.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_area.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_area.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_monitor_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_monitor_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\work_tittle.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\work_tittle.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_pipeline.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_pipeline.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\before.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\before.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\calendar.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\calendar.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\before.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\before.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_distance_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_distance_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plan_list_devide1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\plan_list_devide1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_user.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\login_user.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\select_person_1.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\select_person_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clock.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\clock.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circle_l.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\circle_l.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_bg_02.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\button_bg_02.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sync_plan.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\sync_plan.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_bg_01.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\button_bg_01.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\reset.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\reset.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sync_plan.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\sync_plan.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\imageview_bg.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\imageview_bg.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sync_line.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\sync_line.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\history.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\history.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sync_01.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\sync_01.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_info_selector.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\menu_info_selector.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pause.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\pause.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alarm_flag.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\alarm_flag.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\white_btn.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\white_btn.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\start_push.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\start_push.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_distance.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_distance.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_start.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_start.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_locate_1.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_locate_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circle_o.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\circle_o.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\select_person_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\select_person_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_locus_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_locus_1.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_palcename.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_palcename.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\panel_bg.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\panel_bg.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bg_01.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\top_bg_01.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sync_pile.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\sync_pile.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\start.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\start.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_other_1.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_other_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back_selector.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\back_selector.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sync_op.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\sync_op.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clock.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\clock.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gallery_delete.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\gallery_delete.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\calendar.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\calendar.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sync_domain.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\sync_domain.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_ok.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\button_ok.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_bus_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_bus_1.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sync_pile.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\sync_pile.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sj_menu1_selector.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\sj_menu1_selector.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gallery_delete_01h.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\gallery_delete_01h.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\imageview_bg.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\imageview_bg.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circle_o.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\circle_o.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_ok.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\button_ok.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\work_tittle.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\work_tittle.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gallery_delete.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\gallery_delete.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\reset.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\reset.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\on_btn.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\on_btn.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sync_01.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\sync_01.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\select.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\select.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_other_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_other_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gps.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\gps.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sys_setting.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\sys_setting.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\start.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\start.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\prompt.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\prompt.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\history.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\history.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_info_selector.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\menu_info_selector.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_date_1.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_date_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\upcoming.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\upcoming.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tittle_pic1.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\tittle_pic1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sync_plan.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\sync_plan.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dot_line.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\dot_line.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alarm_new.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\alarm_new.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\prompt.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\prompt.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_navigation_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_navigation_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_image.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\login_image.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mainview_logo.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\mainview_logo.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\login.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_layer.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_layer.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bg_03.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\top_bg_03.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\help.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\help.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_bg1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\login_bg1.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_start.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_start.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_distance.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_distance.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\select_person_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\select_person_1.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_layer_1.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_layer_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab2_off.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\tab2_off.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_date.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_date.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plan_list_devide1.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\plan_list_devide1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_other.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_other.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stop_push.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\stop_push.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alarm_arraw.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\alarm_arraw.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_pile.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_pile.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_locus_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_locus_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\upcoming.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\upcoming.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_selected.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_selected.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_offline_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_offline_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bg_01.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\top_bg_01.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_button_sj.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\login_button_sj.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\next.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\next.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\person.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\person.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_navigation.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_navigation.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_locate.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_locate.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\offnet.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\offnet.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_bus.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_bus.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plan_list_devide.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\plan_list_devide.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_area_1.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_area_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sync_domain.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\sync_domain.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_locus.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_locus.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_button_bg.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\login_button_bg.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_password.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\login_password.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_monitor.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_monitor.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sync_domain.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\sync_domain.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bg_03.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\top_bg_03.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_date_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_date_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\white_btn.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\white_btn.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_area.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_area.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab1_off.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\tab1_off.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tittle_pic1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\tittle_pic1.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab1_selector.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\tab1_selector.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_other_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_other_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_palcename.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_palcename.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gallery_delete_01h.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\gallery_delete_01h.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab2_off.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\tab2_off.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sync_deptment.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\sync_deptment.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab2_selector.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\tab2_selector.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mainview_icon_upgrate.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\mainview_icon_upgrate.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_layer_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_layer_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\select_person.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\select_person.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mainview_icon_upgrate.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\mainview_icon_upgrate.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\reset.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\reset.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\panel_bg.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\panel_bg.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_online.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_online.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_top_bg.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_top_bg.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\on_btn.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\on_btn.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_button_sj.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\login_button_sj.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_bg_02.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\button_bg_02.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_search.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_search.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_bg1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\login_bg1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\history.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\history.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\next.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\next.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dot_line.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\dot_line.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_selected.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_selected.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_navigation.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_navigation.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sync_02.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\sync_02.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alarm_arraw.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\alarm_arraw.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circle_l.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\circle_l.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cancel.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\cancel.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bg_04.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\top_bg_04.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sj_menu3_selector.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\sj_menu3_selector.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_current_info_selector.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\menu_current_info_selector.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\help.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\help.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gps.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\gps.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_ok.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\button_ok.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_layer_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_layer_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plan_list_devide.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\plan_list_devide.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\off_btn.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\off_btn.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_locus.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_locus.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bg_02.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\top_bg_02.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sync_line.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\sync_line.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_locus.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_locus.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_offline_1.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_offline_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_offline_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_offline_1.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sync_line.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\sync_line.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gallery_back.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\gallery_back.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\accept.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\accept.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_distance.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_distance.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alarm_flag_bg.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\alarm_flag_bg.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\accept.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\accept.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_layer.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_layer.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_offline.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_offline.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_search.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_search.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_bg_01.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\button_bg_01.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\off_btn.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\off_btn.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alarm_flag_bg.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\alarm_flag_bg.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sync_pile.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\sync_pile.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sj_menu4_selector.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\sj_menu4_selector.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_search_1.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_search_1.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\item_bg.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\item_bg.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_bus_1.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_bus_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bg_02.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\top_bg_02.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sj_menu2_selector.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\sj_menu2_selector.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\offnet.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\offnet.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_bus_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_bus_1.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plan_list_devide.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\plan_list_devide.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_info_selector.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\menu_info_selector.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\start.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\start.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab2_selector.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\tab2_selector.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_offline.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_offline.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mainview_icon_upgrate.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\mainview_icon_upgrate.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_palcename_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_palcename_1.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_online_1.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_online_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_password.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\login_password.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_other.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_other.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tittle_pic1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\tittle_pic1.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_current_info_selector.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\menu_current_info_selector.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gallery_back_01h.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\gallery_back_01h.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_palcename_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_palcename_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab1_selector.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\tab1_selector.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pause.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\pause.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\exit.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\exit.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cancel.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\cancel.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab2_on.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\tab2_on.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_date_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_date_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_monitor.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_monitor.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sj_menu3_selector.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\sj_menu3_selector.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sj_menu4_selector.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\sj_menu4_selector.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mainview_logo.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\mainview_logo.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_pipeline.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_pipeline.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alarm_new.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\alarm_new.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\start_push.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\start_push.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\person.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\person.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_navigation_1.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_navigation_1.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_password.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\login_password.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\person.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\person.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gallery_back_01h.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\gallery_back_01h.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_palcename_1.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_palcename_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sys_setting.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\sys_setting.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alarm_flag.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\alarm_flag.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_date.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_date.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_assessment_selector.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\menu_assessment_selector.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_bus.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_bus.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_button_bg_h.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\login_button_bg_h.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\start_push.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\start_push.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_assessment_selector.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\menu_assessment_selector.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sync_02.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\sync_02.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alarm_flag.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\alarm_flag.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab2_selector.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\tab2_selector.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_bg_02.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\button_bg_02.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_monitor_1.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_monitor_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_bus.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_bus.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_online_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_online_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gallery_back.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\gallery_back.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sj_menu2_selector.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\sj_menu2_selector.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bg_01.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\top_bg_01.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_locate_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_locate_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\prompt.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\prompt.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pause.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\pause.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sync_op.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\sync_op.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_monitor_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_monitor_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab1_on.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\tab1_on.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gallery_back_01h.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\gallery_back_01h.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_bg1.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\login_bg1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_search_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_search_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_layer.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_layer.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gps.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\gps.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\on_btn.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\on_btn.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\white_btn.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\white_btn.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_locus_1.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_locus_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alarm_flag_bg.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\alarm_flag_bg.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bg_03.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\top_bg_03.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alarm_arraw.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\alarm_arraw.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_item_arrow.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\attach_item_arrow.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_palcename.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_palcename.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\upcoming.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\upcoming.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\panel_bg.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\panel_bg.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\select_person.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\select_person.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_area_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_area_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\login.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab1_selector.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\tab1_selector.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alarm_new.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\alarm_new.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\select_person.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\select_person.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\select.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\select.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_user.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\login_user.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bg_04.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\top_bg_04.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\exit.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\exit.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_locate_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_locate_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sync_01.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\sync_01.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\save.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\save.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sj_menu1_selector.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\sj_menu1_selector.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_button_bg_h.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\login_button_bg_h.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_online.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_online.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cancel.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\cancel.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab1_on.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\tab1_on.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stop_push.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\stop_push.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\login.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gallery_delete.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\gallery_delete.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\help.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\help.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_navigation.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_navigation.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_start.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_start.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sync_deptment.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\sync_deptment.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_date.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_date.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sync_deptment.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\sync_deptment.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\save.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\save.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_item_arrow.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\attach_item_arrow.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_monitor.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_monitor.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_button_bg.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\login_button_bg.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_pile.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_pile.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab2_off.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\tab2_off.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_bg_01.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\button_bg_01.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sys_setting.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\sys_setting.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\off_btn.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\off_btn.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_top_bg.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_top_bg.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mainview_logo.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\mainview_logo.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_user.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\login_user.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_current_info_selector.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\menu_current_info_selector.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bg_02.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\top_bg_02.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_button_bg_h.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\login_button_bg_h.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_pipeline.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_pipeline.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gallery_delete_01h.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\gallery_delete_01h.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_button_bg.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\login_button_bg.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\item_bg.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\item_bg.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_search_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_search_1.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\accept.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\accept.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_distance_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_distance_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_locate.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_locate.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dot_line.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\dot_line.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gallery_back.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\gallery_back.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sj_menu4_selector.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\sj_menu4_selector.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clock.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\clock.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sync_op.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\sync_op.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_area.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_area.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\imageview_bg.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\imageview_bg.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sj_menu3_selector.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\sj_menu3_selector.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_navigation_1.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\map_navigation_1.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_search.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_search.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\select.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\select.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_offline.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_offline.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\save.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\save.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_locate.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_locate.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stop_push.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\stop_push.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\offnet.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\offnet.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\exit.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\exit.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_button_sj.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\login_button_sj.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sj_menu2_selector.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\drawable-hdpi\\sj_menu2_selector.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_online.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_online.png"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab1_off.png",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\tab1_off.png"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_top_bg.png",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\drawable-hdpi\\map_top_bg.png"
+    }
+]

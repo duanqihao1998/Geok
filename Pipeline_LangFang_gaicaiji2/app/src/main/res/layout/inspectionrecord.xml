@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:panel="http://schemas.android.com/apk/res/com.geok.langfang.pipeline"
+    xmlns:btn="http://schemas.android.com/apk/res/com.geok.langfang.pipeline"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="ResAuto">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/main_bg" >
+
+        <RelativeLayout
+            android:id="@+id/mywork_tittle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/inspectionrecord" >
+
+            <Button
+                android:id="@+id/back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="5dp"
+                android:background="@drawable/back_selector" />
+
+            <Button
+                android:id="@+id/main"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="5dp"
+                android:background="@drawable/main_selector" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/mywork1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/mywork_tittle"
+            android:orientation="horizontal"
+            android:paddingLeft="20dp" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:src="@drawable/tittle_pic" />
+
+            <TextView
+                style="@style/tittle_text"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:paddingLeft="10dp"
+                android:text="巡线记录" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/tabbutton"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/mywork1"
+            android:paddingLeft="20dp" >
+
+            <Button
+                android:id="@+id/mybutton1"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/tab1_selector"
+                android:gravity="center_vertical"
+                android:paddingLeft="15dp"
+                android:text="任务描述"
+                android:textColor="#ffffff"
+                android:textSize="17sp" />
+
+            <Button
+                android:id="@+id/mybutton2"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_alignParentRight="true"
+                android:layout_alignTop="@+id/mybutton1"
+                android:layout_marginLeft="80dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/tab2_selector"
+                android:gravity="center_vertical|right"
+                android:paddingRight="60dp"
+                android:text=""
+                android:textColor="#ffffff"
+                android:textSize="17sp" />
+            
+            <RelativeLayout 
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="25dp"
+                 android:layout_centerVertical="true"
+                >
+                <LinearLayout
+                    android:id="@+id/pointgroup"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:orientation="horizontal"
+                    >
+            	</LinearLayout>
+                
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/viewgroup"
+            android:layout_width="fill_parent"
+            android:layout_height="135dp"
+            android:layout_below="@+id/tabbutton"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:orientation="vertical" >
+        </LinearLayout>
+
+        <ScrollView
+            android:id="@+id/scrollview"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/viewgroup"
+            android:visibility="visible" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:id="@+id/mywork2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/circle_cornor_line"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="40dp"
+                        android:background="@drawable/task_tittle"
+                        android:orientation="horizontal"
+                        android:paddingLeft="15dp" >
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:src="@drawable/tittle_pic1" 
+                            />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:gravity="center_vertical"
+                            android:paddingLeft="10dp"
+                            android:text="巡检记录"
+                            android:textColor="#1b52ab"
+                            android:textSize="17sp"
+                            />
+                        
+                         <ImageView
+                             android:layout_width="fill_parent"
+                             android:layout_height="wrap_content"
+                             android:layout_gravity="center_vertical|right"
+                             android:paddingLeft="150dp"
+                             android:src="@drawable/arrow_updown" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/inspection_weather"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/listitem_selector"
+                        android:clickable="true" >
+
+                        <TextView
+                            style="@style/pipeline_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:layout_weight="2"
+                            android:gravity="left|center_vertical"
+                            android:paddingLeft="10dp"
+                            android:singleLine="true"
+                            android:text="天气状况：" />
+
+                        <TextView
+                            android:id="@+id/inspection_weather_text"
+                            style="@style/pipeline_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:layout_weight="3"
+                            android:gravity="right|center_vertical"
+                            android:paddingRight="10dp"
+                            android:singleLine="true"
+                            android:text="填写天气状况" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/inspection_road"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/listitem_selector"
+                        android:clickable="true" >
+
+                        <TextView
+                            style="@style/pipeline_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:layout_weight="2"
+                            android:gravity="left|center_vertical"
+                            android:paddingLeft="10dp"
+                            android:singleLine="true"
+                            android:text="道路状况：" />
+
+                        <TextView
+                            android:id="@+id/inspection_road_text"
+                            style="@style/pipeline_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:layout_weight="3"
+                            android:gravity="right|center_vertical"
+                            android:paddingRight="10dp"
+                            android:singleLine="true"
+                            android:text="填写道路状况" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/inspection_record"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/listitem_selector"
+                        android:clickable="true" >
+
+                        <TextView
+                            style="@style/pipeline_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:layout_weight="2"
+                            android:gravity="left|center_vertical"
+                            android:paddingLeft="10dp"
+                            android:singleLine="true"
+                            android:text="巡检记事：" />
+
+                        <TextView
+                            android:id="@+id/inspection_record_text"
+                            style="@style/pipeline_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:layout_weight="3"
+                            android:gravity="right|center_vertical"
+                            android:paddingRight="10dp"
+                            android:singleLine="true"
+                            android:text="填写巡检记事" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/inspection_question"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/listitem_selector"
+                        android:clickable="true" >
+
+                        <TextView
+                            style="@style/pipeline_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:layout_weight="2"
+                            android:gravity="left|center_vertical"
+                            android:paddingLeft="10dp"
+                            android:singleLine="true"
+                            android:text="问题及处理情况：" />
+
+                        <TextView
+                            android:id="@+id/inspection_question_text"
+                            style="@style/pipeline_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:layout_weight="3"
+                            android:gravity="right|center_vertical"
+                            android:paddingRight="10dp"
+                            android:singleLine="true"
+                            android:text="填写问题及情况" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/inspection_result"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/listitem_selector"
+                        android:clickable="true" >
+
+                        <TextView
+                            style="@style/pipeline_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:layout_weight="2"
+                            android:gravity="left|center_vertical"
+                            android:paddingLeft="10dp"
+                            android:singleLine="true"
+                            android:text="处理结果：" />
+
+                        <TextView
+                            android:id="@+id/inspection_result_text"
+                            style="@style/pipeline_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:layout_weight="3"
+                            android:gravity="right|center_vertical"
+                            android:paddingRight="10dp"
+                            android:singleLine="true"
+                            android:text="填写处理结果" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/mywork1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/circle_cornor_line"
+                    android:orientation="vertical"
+                    tools:ignore="DuplicateIds">
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="40dp"
+                        android:background="@drawable/task_tittle"
+                        android:orientation="horizontal"
+                        android:paddingLeft="15dp" >
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:src="@drawable/tittle_pic1" />
+
+                        <TextView
+                            android:layout_width="fill_parent"
+                            android:layout_height="40dp"
+                            android:gravity="center_vertical"
+                            android:paddingLeft="10dp"
+                            android:text="交接班记录"
+                            android:textColor="#1b52ab"
+                            android:textSize="17sp" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/inspection_time"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/listitem_selector"
+                        android:clickable="true" >
+
+                        <TextView
+                            style="@style/pipeline_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:layout_weight="2"
+                            android:gravity="left|center_vertical"
+                            android:paddingLeft="10dp"
+                            android:singleLine="true"
+                            android:text="交班时间：" />
+
+                        <TextView
+                            android:id="@+id/inspection_time_text"
+                            style="@style/pipeline_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:layout_weight="3"
+                            android:gravity="right|center_vertical"
+                            android:paddingRight="10dp"
+                            android:singleLine="true"
+                            android:text="填写交班时间" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/inspection_location"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/listitem_selector"
+                        android:clickable="true" >
+
+                        <TextView
+                            style="@style/pipeline_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:layout_weight="2"
+                            android:gravity="left|center_vertical"
+                            android:paddingLeft="10dp"
+                            android:singleLine="true"
+                            android:text="交班地点：" />
+
+                        <TextView
+                            android:id="@+id/inspection_location_text"
+                            style="@style/pipeline_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:layout_weight="3"
+                            android:gravity="right|center_vertical"
+                            android:paddingRight="10dp"
+                            android:singleLine="true"
+                            android:text="填写交班地点" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/inspection_car"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/listitem_selector"
+                        android:clickable="true" >
+
+                        <TextView
+                            style="@style/pipeline_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:layout_weight="2"
+                            android:gravity="left|center_vertical"
+                            android:paddingLeft="10dp"
+                            android:singleLine="true"
+                            android:text="车辆状况：" />
+
+                        <TextView
+                            android:id="@+id/inspection_car_text"
+                            style="@style/pipeline_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:layout_weight="3"
+                            android:gravity="right|center_vertical"
+                            android:paddingRight="10dp"
+                            android:singleLine="true"
+                            android:text="填写车辆状况" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/inspection_sender"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/listitem_selector"
+                        android:clickable="true" >
+
+                        <TextView
+                            style="@style/pipeline_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:layout_weight="2"
+                            android:gravity="left|center_vertical"
+                            android:paddingLeft="10dp"
+                            android:singleLine="true"
+                            android:text="交班人：" />
+
+                        <TextView
+                            android:id="@+id/inspection_sender_text"
+                            style="@style/pipeline_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:layout_weight="3"
+                            android:gravity="right|center_vertical"
+                            android:paddingRight="10dp"
+                            android:singleLine="true"
+                            android:text="填写交班人" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/inspection_receiver"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/listitem_selector"
+                        android:clickable="true" >
+
+                        <TextView
+                            style="@style/pipeline_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:layout_weight="2"
+                            android:gravity="left|center_vertical"
+                            android:paddingLeft="10dp"
+                            android:singleLine="true"
+                            android:text="接班人：" />
+
+                        <TextView
+                            android:id="@+id/inspection_receiver_text"
+                            style="@style/pipeline_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:layout_weight="3"
+                            android:gravity="right|center_vertical"
+                            android:paddingRight="10dp"
+                            android:singleLine="true"
+                            android:text="填写接班人" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/inspection_other"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/listitem_selector"
+                        android:clickable="true" >
+
+                        <TextView
+                            style="@style/pipeline_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:layout_weight="2"
+                            android:gravity="left|center_vertical"
+                            android:paddingLeft="10dp"
+                            android:singleLine="true"
+                            android:text="其它记事：" />
+
+                        <TextView
+                            android:id="@+id/inspection_other_text"
+                            style="@style/pipeline_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:layout_weight="3"
+                            android:gravity="right|center_vertical"
+                            android:paddingRight="10dp"
+                            android:singleLine="true"
+                            android:text="填写其它记事" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp" />
+            </LinearLayout>
+        </ScrollView>
+
+        <LinearLayout
+            android:id="@+id/mywork_button"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:orientation="horizontal" >
+			<com.geok.langfang.tools.MyImageButton
+                android:id="@+id/inspection_reset"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/btn_press"
+                btn:src="@drawable/reset"
+                btn:text="@string/reset" />
+            
+            <com.geok.langfang.tools.MyImageButton
+                android:id="@+id/inspection_save"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/btn_press"
+                btn:src="@drawable/save"
+                btn:text="@string/save" />
+
+            <com.geok.langfang.tools.MyImageButton
+                android:id="@+id/inspection_upload"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/btn_press"
+                btn:src="@drawable/accept"
+                btn:text="@string/upload" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <com.geok.langfang.tools.Panel
+        android:id="@+id/pipeline_panel"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_gravity="left"
+        panel:animationDuration="1000"
+        panel:closedHandle="@drawable/left_switcher_collapsed_background"
+        panel:content="@+id/panelContent"
+        panel:handle="@+id/panelHandle"
+        panel:linearFlying="true"
+        panel:openedHandle="@drawable/left_switcher_expanded_background"
+        panel:position="left" >
+
+        <Button
+            android:id="@+id/panelHandle"
+            android:layout_width="20dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />
+
+        <LinearLayout
+            android:id="@+id/panelContent"
+            android:layout_width="90dp"
+            android:layout_height="fill_parent"
+            android:background="@drawable/panel_bg"
+            android:orientation="vertical" >
+
+            <ListView
+                android:id="@+id/inspection_panel_list"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="50dp"
+                android:cacheColorHint="#00000000" >
+            </ListView>
+        </LinearLayout>
+    </com.geok.langfang.tools.Panel>
+
+</RelativeLayout>

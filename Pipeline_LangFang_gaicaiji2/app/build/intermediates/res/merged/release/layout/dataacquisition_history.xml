@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffffff" >
+
+    <!-- 右边菜单 -->
+
+    <RelativeLayout
+        android:id="@+id/rightmenu"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#c7c7c7"
+        android:orientation="vertical"
+        android:visibility="invisible" >
+
+        <RelativeLayout
+            android:id="@+id/data_history_tittle"
+            android:layout_width="match_parent"
+            android:layout_height="58dp"
+            android:layout_alignParentTop="true"
+            android:background="#969696" >
+
+            <TextView
+                style="@style/tittle_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="50dp"
+                android:text="搜索条件" />
+
+            <Button
+                android:id="@+id/sure"
+                android:layout_width="100dp"
+                android:layout_height="40dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:text="确定" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/line"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_below="@id/data_history_tittle"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp" >
+
+            <TextView
+                android:id="@+id/data_history_text1"
+                style="@style/pipeline_text"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:text="线路：" />
+
+            <RelativeLayout
+                android:id="@+id/re_search_line"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_alignParentRight="true"
+                android:layout_toRightOf="@id/data_history_text1"
+                android:background="@drawable/listitem_selector"
+                android:clickable="true" >
+
+                <TextView
+                    android:id="@+id/te_search_line"
+                    style="@style/pipeline_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:text="线路" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:paddingRight="10dp"
+                    android:scaleType="center"
+                    android:src="@drawable/arrow" />
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/data_start_pile"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_below="@+id/line"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp" >
+
+            <TextView
+                android:id="@+id/data_history_text2"
+                style="@style/pipeline_text"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:text="起始桩号：" />
+
+            <RelativeLayout
+                android:id="@+id/re_search_startpile"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_alignParentRight="true"
+                android:layout_toRightOf="@id/data_history_text2"
+                android:background="@drawable/listitem_selector"
+                android:clickable="true" >
+
+                <TextView
+                    android:id="@+id/te_search_startpile"
+                    style="@style/pipeline_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:text="起始桩号" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:paddingRight="10dp"
+                    android:scaleType="center"
+                    android:src="@drawable/arrow" />
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/data_end_pile"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_below="@id/data_start_pile"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp" >
+
+            <TextView
+                android:id="@+id/data_history_text3"
+                style="@style/pipeline_text"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:text="终止桩号：" />
+
+            <RelativeLayout
+                android:id="@+id/re_search_endpile"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_alignParentRight="true"
+                android:layout_toRightOf="@id/data_history_text3"
+                android:background="@drawable/listitem_selector"
+                android:clickable="true" >
+
+                <TextView
+                    android:id="@+id/te_search_endpile"
+                    style="@style/pipeline_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:text="终止桩号" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:paddingRight="10dp"
+                    android:scaleType="center"
+                    android:src="@drawable/arrow" />
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/data_start_time"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_below="@id/data_end_pile"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp" >
+
+            <TextView
+                android:id="@+id/data_history_text4"
+                style="@style/pipeline_text"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:text="起始日期：" />
+
+            <RelativeLayout
+                android:id="@+id/re_search_startdate"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_alignParentRight="true"
+                android:layout_toRightOf="@id/data_history_text4"
+                android:background="@drawable/listitem_selector"
+                android:clickable="true" >
+
+                <TextView
+                    android:id="@+id/te_search_startdate"
+                    style="@style/pipeline_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:text="起始日期" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:paddingRight="10dp"
+                    android:scaleType="center"
+                    android:src="@drawable/calendar" />
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/endtime"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_below="@id/data_start_time"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp" >
+
+            <TextView
+                android:id="@+id/data_history_text5"
+                style="@style/pipeline_text"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:text="终止日期：" />
+
+            <RelativeLayout
+                android:id="@+id/re_search_enddate"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_alignParentRight="true"
+                android:layout_toRightOf="@id/data_history_text5"
+                android:background="@drawable/listitem_selector"
+                android:clickable="true" >
+
+                <TextView
+                    android:id="@+id/te_search_enddate"
+                    style="@style/pipeline_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:text="终止日期" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:paddingRight="10dp"
+                    android:scaleType="center"
+                    android:src="@drawable/calendar" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+    <!-- 左边菜单 -->
+
+    <LinearLayout
+        android:id="@+id/leftmenu"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:visibility="invisible" >
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="leftmenu" />
+    </LinearLayout>
+
+    <com.geok.langfang.tools.MyHorizontalScrollView
+        android:id="@+id/myScrollView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#00ffffff"
+        android:fadingEdge="none"
+        android:scrollbars="none" >
+
+        <!--  -->
+
+        <LinearLayout
+            android:id="@+id/top"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#00ffffff"
+            android:orientation="horizontal" >
+        </LinearLayout>
+    </com.geok.langfang.tools.MyHorizontalScrollView>
+
+</FrameLayout>

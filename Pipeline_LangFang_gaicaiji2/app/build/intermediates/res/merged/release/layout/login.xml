@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:btn="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/login_pager">
+
+    <ImageView
+        android:id="@+id/login_pipeline_image"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/login_tilie1" />
+
+
+
+    <RelativeLayout
+        android:id="@+id/login_huan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-100dp"
+        android:layout_below="@+id/login_pipeline_image"
+        android:layout_centerHorizontal="true" >
+
+         <RadioGroup
+             android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="170px"
+        android:layout_marginLeft="115px"
+        android:scaleX="0.6"
+        android:scaleY="0.6"
+        android:id="@+id/radio_mail"
+        >
+        <RadioButton
+            android:id="@+id/radiobt_ptr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ptr"
+            style="@style/radiobutton_text"
+            />
+        <RadioButton
+	    android:id="@+id/radiobt_cnpc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="45px"
+            android:text="cnpc"
+            style="@style/radiobutton_text"
+            />
+    </RadioGroup>
+
+        <EditText
+            android:id="@+id/login_username"
+            android:layout_width="match_parent"
+            android:layout_height="60px"
+            android:layout_marginLeft="95px"
+            android:layout_marginRight="95px"
+            android:layout_marginTop="250px"
+            android:background="@color/white"
+            android:paddingLeft="110px"
+            android:singleLine="true" />
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="100px"
+            android:layout_height="50px"
+            android:layout_marginLeft="105px"
+            android:layout_marginTop="255px"
+            android:text="用户名"
+            android:textColor="@color/black"/>
+
+        <EditText
+            android:id="@+id/login_password"
+            android:layout_width="match_parent"
+            android:layout_height="60px"
+            android:layout_marginLeft="95px"
+            android:layout_marginRight="95px"
+            android:layout_marginTop="325px"
+            android:background="@color/white"
+            android:paddingLeft="110px"
+            android:password="true"
+            android:singleLine="true" />
+
+        <TextView
+            android:textColor="@color/black"
+            android:gravity="center"
+            android:layout_width="100px"
+            android:layout_height="50px"
+            android:layout_marginLeft="105px"
+            android:layout_marginTop="330px"
+            android:text="密　码"/>
+
+        <TableLayout
+            android:id="@+id/pipeline_checkbox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="410px" >
+
+            <TableRow
+                android:gravity="center">
+
+                <CheckBox
+                    android:id="@+id/checkbox_passwd"
+                    style="@style/checbox_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:button="@drawable/checbox_selector"
+                    android:text="@string/login_password" />
+
+                <CheckBox
+                    android:id="@+id/checkbox_auto"
+                    style="@style/checbox_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/checkbox_auto"
+                    android:layout_marginLeft="160px"
+                    android:button="@drawable/checbox_selector"
+                    android:text="@string/login_auto" />
+            </TableRow>
+        </TableLayout>
+
+
+    </RelativeLayout>
+
+    <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="700px" >
+
+            <TableRow>
+
+                <com.geok.langfang.tools.MyImageButton
+                    android:id="@+id/login_online"
+                    android:layout_width="250dp"
+                    android:layout_height="50dp"
+                    android:background="@drawable/login_botton"
+                    btn:textSize="9sp" />
+
+                <com.geok.langfang.tools.MyImageButton
+                    android:visibility="gone"
+                    android:id="@+id/login_offline"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/login_btn_selector"
+                    android:layout_marginLeft="30px"
+                    btn:src="@drawable/login_button_sj"
+                    btn:text="@string/offline"
+                    btn:textSize="9sp" />
+            </TableRow>
+        </TableLayout>
+
+</RelativeLayout>

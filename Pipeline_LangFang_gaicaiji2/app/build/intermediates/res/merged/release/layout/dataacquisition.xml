@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login_pager"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/problem_tittle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="#0170b1" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:textColor="@color/white"
+            android:text="数据采集"
+            android:textSize="18dp" />
+
+        <Button
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/return_button" />
+
+        <Button
+            android:id="@+id/main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/setting_button" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/line_infosearch_bt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:gravity="center_horizontal" >
+
+        <RelativeLayout
+            android:id="@+id/protect_bt_relayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <!--此界面点击图片切换选择器———保护电位-->
+            <!--@drawable/sj_menu1_selector-->
+            <Button
+                android:id="@+id/protect_bt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/baohudianwei" />
+
+            <TextView
+                android:id="@+id/protect_bt_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/protect_bt"
+                android:layout_alignRight="@id/protect_bt"
+                android:layout_below="@id/protect_bt"
+                android:gravity="center_horizontal"
+                android:text="保护电位测试"
+                android:textColor="#1b52ab"
+                android:textSize="13sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/natural_bt_relayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_toRightOf="@+id/protect_bt_relayout" >
+
+            <!--此界面点击图片切换选择器———自然电位-->
+            <!--@drawable/sj_menu2_selector-->
+            <Button
+                android:id="@+id/natural_bt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/zirandianwei" />
+
+            <TextView
+                android:id="@+id/natural_bt_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/natural_bt"
+                android:layout_alignRight="@id/natural_bt"
+                android:layout_below="@id/natural_bt"
+                android:gravity="center_horizontal"
+                android:text="自然电位测试"
+                android:textColor="#1b52ab"
+                android:textSize="13sp" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/infosearch_bt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center_horizontal" >
+
+        <RelativeLayout
+            android:id="@+id/ground_bt_relayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+
+            <!--此界面点击图片切换选择器———接地电阻-->
+            <!--@drawable/sj_menu3_selector-->
+            <Button
+                android:id="@+id/ground_bt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/jiedidianzu" />
+
+            <TextView
+                android:id="@+id/ground_bt_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/ground_bt"
+                android:layout_alignRight="@id/ground_bt"
+                android:layout_below="@id/ground_bt"
+                android:gravity="center_horizontal"
+                android:text="接地电阻测试"
+                android:textColor="#1b52ab"
+                android:textSize="13sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/corrosive_bt_relayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_toRightOf="@+id/ground_bt_relayout" >
+
+            <!--此界面点击图片切换选择器———防腐检漏-->
+            <!--@drawable/sj_menu4_selector-->
+            <Button
+                android:id="@+id/corrosive_bt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/fangfuceshi" />
+
+            <TextView
+                android:id="@+id/corrosive_bt_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/corrosive_bt"
+                android:layout_alignRight="@id/corrosive_bt"
+                android:layout_below="@id/corrosive_bt"
+                android:gravity="center_horizontal"
+                android:text="防腐层检漏"
+                android:textColor="#1b52ab"
+                android:textSize="13sp" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/keypoint_bt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center_horizontal" >
+
+        <RelativeLayout
+            android:id="@+id/keypoint_bt_relayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            <!--此界面点击图片切换选择器———关键点采集-->
+            <!--@drawable/menu_keypoint_selector-->
+            <Button
+                android:id="@+id/keypoint"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/guanjiandain" />
+
+            <TextView
+                android:id="@+id/keypoint_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/keypoint"
+                android:layout_alignRight="@id/keypoint"
+                android:layout_below="@id/keypoint"
+                android:gravity="center_horizontal"
+                android:text="关键点采集"
+                android:textColor="#1b52ab"
+                android:textSize="13sp" />
+        </RelativeLayout>
+    </RelativeLayout>
+    
+</LinearLayout>

@@ -1,0 +1,1518 @@
+[
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\corrosivedetial.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\corrosivedetial.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm_detial.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\alarm_detial.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\start.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\start.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\listitem.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_select.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\listitem_select.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm_detial.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\alarm_detial.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\assessment.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\assessment.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keypoint_history.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\keypoint_history.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\asterisk.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\asterisk.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mywork_listitem.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\mywork_listitem.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\start.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\start.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\task_description3.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\task_description3.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialogactivity_edit_ip.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\dialogactivity_edit_ip.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\problemhistory.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\problemhistory.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_tj_2.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\item_tj_2.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolcase.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\toolcase.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\insepctionrecordhistoryitem.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\insepctionrecordhistoryitem.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commonsetupfile.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\commonsetupfile.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\baidumap.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\baidumap.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pipeline_work.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\pipeline_work.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\locus.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\locus.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plan.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\plan.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\userselection.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\userselection.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\problem_history_list.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\problem_history_list.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\alarm.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\problem_dialog.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\problem_dialog.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\treeview.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\treeview.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mywork_dialog.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\mywork_dialog.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\statistics.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\statistics.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\statistics_unqualifiedperson.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\statistics_unqualifiedperson.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customprogressdialog.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\customprogressdialog.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\naturaldetial.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\naturaldetial.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\problem_dialog_list.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\problem_dialog_list.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\file_row.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\file_row.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\outline.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\outline.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\problem_history.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\problem_history.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\problem_history.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\problem_history.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\userselection.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\userselection.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dataacquisition.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\dataacquisition.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\problemdetial.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\problemdetial.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\task_description1.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\task_description1.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_item.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\popupwindow_item.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dataacquisition_history_list.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\dataacquisition_history_list.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\planhistory.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\planhistory.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\workhlist_item.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\workhlist_item.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_detial.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\notification_detial.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\planhistory.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\planhistory.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\insepctionrecordhistory.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\insepctionrecordhistory.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\protect.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\protect.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keypoint.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\keypoint.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\planhistoryitem.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\planhistoryitem.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_history_list.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\data_history_list.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\notification.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\callout.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\callout.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\task1.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\task1.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bus.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\bus.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sync.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\sync.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialogactivity_listview_search.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\dialogactivity_listview_search.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commonsetupfile.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\commonsetupfile.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grallyimage_list.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\grallyimage_list.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mywork.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\mywork.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\natural_history_list.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\natural_history_list.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\statistics_qualifiedrate.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\statistics_qualifiedrate.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab2.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\tab2.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plan.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\plan.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_item.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\popupwindow_item.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\workh_detail.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\workh_detail.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dataacquisition_history_noline.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\dataacquisition_history_noline.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\task2.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\task2.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\problemdetial.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\problemdetial.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\offnet.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\offnet.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keypoint_history.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\keypoint_history.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commonsetupfile.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\commonsetupfile.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\naturaldetial.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\naturaldetial.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mywork.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\mywork.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\placename.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\placename.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\problem_dialog.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\problem_dialog.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\listitem.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ground.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\ground.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\planhistory.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\planhistory.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_detial.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\notification_detial.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\outline_user.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\outline_user.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keypoint.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\keypoint.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\offnet.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\offnet.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\search.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_select.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\listitem_select.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\workhlist_item.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\workhlist_item.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\eventupstatistics.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\eventupstatistics.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_alert.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\map_alert.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\corrosivedetial.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\corrosivedetial.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialogactivity_edit_ip.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\dialogactivity_edit_ip.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grallyimage_list.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\grallyimage_list.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\treeview.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\treeview.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\outline.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\outline.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\panel_item.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\panel_item.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm_detial.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\alarm_detial.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\task_description1.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\task_description1.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inspectionrecord.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\inspectionrecord.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\outline_user.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\outline_user.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\statistics_qualifiedrate.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\statistics_qualifiedrate.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dataacquisition_history_list.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\dataacquisition_history_list.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lineinfo.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\lineinfo.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layer.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\layer.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\notification.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\workh_detail.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\workh_detail.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\monitor.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\monitor.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\editgallery.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\editgallery.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\notification.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\file_row.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\file_row.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\protect.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\protect.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\protectdetial.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\protectdetial.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\protectdetial.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\protectdetial.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sync.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\sync.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mainview.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\mainview.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\natural.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\natural.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\problem.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\problem.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layer.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\layer.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navi.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\navi.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\update.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\update.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialogactivity_listview_search.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\dialogactivity_listview_search.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\offnet.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\offnet.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\corrosive.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\corrosive.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\banner.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\banner-1.1.5.aar\\ff204b6a131bafc55d2b7bba3df4e649\\res\\layout\\banner.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\insepctionrecordhistoryitem.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\insepctionrecordhistoryitem.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\unqualifiedpersontable.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\unqualifiedpersontable.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settingdetial.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\settingdetial.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dataacquisition_history.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\dataacquisition_history.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lineinfo.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\lineinfo.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settingdetial.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\settingdetial.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_item.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\popupwindow_item.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\unqualifiedperson_table.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\unqualifiedperson_table.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\problem_history_list.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\problem_history_list.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mainview_icon.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\mainview_icon.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mainview_icon.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\mainview_icon.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\problem_dialog_list.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\problem_dialog_list.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_alert.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\map_alert.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\insepction_history.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\insepction_history.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\task_description2.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\task_description2.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mainview.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\mainview.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\setting.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\problem_dialog.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\problem_dialog.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_detial.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\notification_detial.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\problem_dialog_list.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\problem_dialog_list.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mywork_listitem.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\mywork_listitem.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\unqualifiedperson_table.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\unqualifiedperson_table.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\treeview.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\treeview.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\task_description3.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\task_description3.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\callout.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\callout.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab1.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\tab1.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mywork_dialog.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\mywork_dialog.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\workh_detail.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\workh_detail.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navi.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\navi.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\planhistoryitem.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\planhistoryitem.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mywork1.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\mywork1.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\insepctionrecordhistory.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\insepctionrecordhistory.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\statistics.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\statistics.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sync_list.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\sync_list.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\arcmap.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\arcmap.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\statistics_device.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\statistics_device.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inspectiondetial.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\inspectiondetial.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keypoint_history.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\keypoint_history.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popview.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\popview.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\start.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\start.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\callout.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\callout.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\editgallery.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\editgallery.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\other.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\corrosivedetial.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\corrosivedetial.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\locus.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\locus.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inspectionrecord.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\inspectionrecord.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_select.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\listitem_select.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\statistics_unqualifiedperson.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\statistics_unqualifiedperson.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\itemgr.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\itemgr.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\itemgjd.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\itemgjd.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\unqualifiedpersontable.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\unqualifiedpersontable.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\problem_history.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\problem_history.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\task2.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\task2.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grounddetial.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\grounddetial.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\infosearch.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\infosearch.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\statistics_qualifiedrate.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\statistics_qualifiedrate.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pipeline_work.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\pipeline_work.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bus.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\bus.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\panel_item.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\panel_item.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\currentlineinfo.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\currentlineinfo.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\editgallery.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\editgallery.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\problem_history_list.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\problem_history_list.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\task_description2.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\task_description2.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialogactivity_listview_search.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\dialogactivity_listview_search.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pipeline_work.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\pipeline_work.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_tj_3.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\item_tj_3.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dataacquisition_history_noline.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\dataacquisition_history_noline.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\userselection.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\userselection.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\asterisk.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\asterisk.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ground.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\ground.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_items.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\list_items.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popview.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\popview.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\corrosive.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\corrosive.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\placename.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\placename.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mywork_dialog.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\mywork_dialog.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\problemhistory.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\problemhistory.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ground.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\ground.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\search.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\protect.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\protect.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\task1.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\task1.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\naturaldetial.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\naturaldetial.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layer.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\layer.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\search.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customprogressdialog.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\customprogressdialog.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\task1.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\task1.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wrokhistory.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\wrokhistory.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\statistics_device.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\statistics_device.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm_list.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\alarm_list.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\problem.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\problem.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\listitem.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_tj_1.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\item_tj_1.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keypoint.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\keypoint.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mywork1.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\mywork1.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keypoint_history_detial.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\keypoint_history_detial.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialogactivity_listview.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\dialogactivity_listview.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\infosearch.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\infosearch.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab1.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\tab1.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialogactivity_listview.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\dialogactivity_listview.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\panel_item.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\panel_item.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grounddetial.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\grounddetial.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dataacquisition_history.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\dataacquisition_history.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dataacquisition_history.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\dataacquisition_history.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\currentlineinfo.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\currentlineinfo.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bus.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\bus.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mainview.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\mainview.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\task_description4.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\task_description4.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\outline.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\outline.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\file_row.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\file_row.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\task_description2.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\task_description2.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navi.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\navi.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keypoint_history_detial.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\keypoint_history_detial.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sync_list.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\sync_list.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\eventupstatistics.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\eventupstatistics.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\locus.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\locus.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\his_statistics_details.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\his_statistics_details.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\other.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\insepction_history.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\insepction_history.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\baidumap.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\baidumap.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\placename.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\placename.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\insepction_history.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\insepction_history.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inspectiondetial.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\inspectiondetial.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_history_list.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\data_history_list.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grounddetial.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\grounddetial.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialogactivity_edit_ip.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\dialogactivity_edit_ip.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\statistics.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\statistics.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\task_description4.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\task_description4.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialogactivity_edit.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\dialogactivity_edit.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\other.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm_list.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\alarm_list.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dataacquisition.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\dataacquisition.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_history_list.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\data_history_list.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\task_description1.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\task_description1.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mainview_icon.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\mainview_icon.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\insepctionrecordhistoryitem.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\insepctionrecordhistoryitem.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_items.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\list_items.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customprogressdialog.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\customprogressdialog.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialogactivity_edit.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\dialogactivity_edit.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lineinfo.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\lineinfo.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inspectionrecord.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\inspectionrecord.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mywork_listitem.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\mywork_listitem.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\planhistoryitem.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\planhistoryitem.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dataacquisition_history_list.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\dataacquisition_history_list.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\insepctionrecordhistory.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\insepctionrecordhistory.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\eventupstatistics.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\eventupstatistics.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab1.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\tab1.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\update.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\update.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mywork.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\mywork.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\unqualifiedpersontable.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\unqualifiedpersontable.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\natural.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\natural.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\statistics_device.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\statistics_device.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\protectdetial.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\protectdetial.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\alarm.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\his_statistics.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\his_statistics.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\arcmap.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\arcmap.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\setting.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wrokhistory.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\wrokhistory.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolcase.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\toolcase.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\monitor.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\monitor.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\currentlineinfo.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\currentlineinfo.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\baidumap.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\baidumap.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\asterisk.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\asterisk.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grallyimage.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\grallyimage.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popview.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\popview.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\alarm.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\task_description4.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\task_description4.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\problem.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\problem.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\assessment.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\assessment.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolcase.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\toolcase.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inspectiondetial.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\inspectiondetial.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\natural.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\natural.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\statistics_unqualifiedperson.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\statistics_unqualifiedperson.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wrokhistory.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\wrokhistory.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dataacquisition.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\dataacquisition.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm_list.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\alarm_list.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\task_description3.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\task_description3.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\natural_history_list.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\natural_history_list.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plan.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\plan.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_items.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\list_items.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grallyimage.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\grallyimage.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\unqualifiedperson_table.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\unqualifiedperson_table.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_alert.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\map_alert.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\problemhistory.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\problemhistory.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\his_item.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\his_item.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\assessment.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\assessment.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settingdetial.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\settingdetial.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\corrosive.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\corrosive.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grallyimage.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\grallyimage.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\monitor.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\monitor.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\natural_history_list.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\natural_history_list.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialogactivity_listview.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\dialogactivity_listview.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\problemdetial.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\problemdetial.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialogactivity_edit.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\dialogactivity_edit.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sync_list.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\sync_list.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keypoint_history_detial.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\keypoint_history_detial.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grallyimage_list.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\grallyimage_list.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sync.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\sync.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\ydb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\58ec01253298bc78a83bcd3976cb5a1a\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\update.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\update.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\task2.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\task2.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\workhlist_item.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\workhlist_item.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\setting.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\outline_user.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji2\\app\\src\\main\\res\\layout\\outline_user.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab2.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\tab2.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dataacquisition_history_noline.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\dataacquisition_history_noline.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab2.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\tab2.xml"
+    },
+    {
+        "merged": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\arcmap.xml",
+        "source": "D:\\DQH\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\arcmap.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mywork1.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\mywork1.xml"
+    },
+    {
+        "merged": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\infosearch.xml",
+        "source": "D:\\APK\\Pipeline_LangFang_gaicaiji1\\app\\src\\main\\res\\layout\\infosearch.xml"
+    }
+]
