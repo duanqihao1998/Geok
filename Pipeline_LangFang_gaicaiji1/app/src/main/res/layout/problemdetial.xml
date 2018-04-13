@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_bg" >
+
+    <RelativeLayout
+        android:id="@+id/problem_tittle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/problem" >
+
+        <Button
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/back_selector" />
+
+        <Button
+            android:id="@+id/main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/main_selector" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/problem_tittle" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/circle_cornor_line"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/problem_detial_type"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="问题类型：" />
+
+            <TextView
+                android:id="@+id/problem_detial_latlon"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="经纬度：" />
+
+            <TextView
+                android:id="@+id/problem_detial_occurtime"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="发生时间：" />
+
+            <TextView
+                android:id="@+id/problem_detial_line"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="线路：" />
+
+            <TextView
+                android:id="@+id/problem_detial_pile"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="桩号：" />
+
+            <TextView
+                android:id="@+id/problem_detial_offset"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="偏移量：" />
+
+     <!--        <TextView
+                android:id="@+id/problem_detial_userid"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="巡检人员：" />
+--> 
+            <TextView
+                android:id="@+id/problem_detial_uploadtime"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="上报时间：" />
+
+            <TextView
+                android:id="@+id/problem_detial_problemdes"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="问题描述：" />
+
+            <TextView
+                android:id="@+id/problem_detial_location"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="问题发生地点：" />
+
+            <TextView
+                android:id="@+id/problem_detial_plan"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="问题解决方案：" />
+
+            <TextView
+                android:id="@+id/problem_detial_result"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="问题解决情况：" />
+
+            <TextView
+                android:id="@+id/problem_detial_isupload"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="是否上报服务器：" />
+
+            <ImageView
+                android:id="@+id/problem_detial_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:src="@drawable/imageview_bg" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="20dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/map_top_bg"
+    android:orientation="horizontal" >
+
+    <ImageView
+        android:id="@+id/other_map_distance"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_gravity="center_vertical"
+        android:background="@drawable/bg_selector"
+        android:src="@drawable/map_distance_selector"
+        android:clickable="true" />
+
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:background="#cdcdb4"
+        android:gravity="center" />
+
+    
+	<ImageView
+        android:id="@+id/other_map_area"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_gravity="center_vertical"
+        android:background="@drawable/bg_selector"
+        android:src="@drawable/map_area_selector" 
+        android:clickable="true"/>
+    
+
+</LinearLayout>

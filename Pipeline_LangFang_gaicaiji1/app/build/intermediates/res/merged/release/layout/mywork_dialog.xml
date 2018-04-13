@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:background="@drawable/circle_cornor_line"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/mywork_dialog_tittle"
+        style="@style/tittle_text"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:text="桩号" />
+<!-- 
+    <TextView
+        android:id="@+id/mywork_dialog_type"
+        style="@style/pipeline_text"
+        android:layout_width="200dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/circle_cornor_line_gray"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:text="桩号连接编号" />
+         -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/circle_cornor_line_gray"
+        android:orientation="vertical" >
+
+        <!--
+               <TextView 
+		        android:id="@+id/mywork_dialog_line"
+		        android:layout_width="match_parent"
+		        android:layout_height="40dp"
+		        style="@style/pipeline_text"
+		        android:paddingLeft="10dp"
+		         android:gravity="center_vertical"
+		        android:text="位置描述信息"
+		        />        -->
+
+        <TextView
+            android:id="@+id/mywork_dialog_distance"
+            style="@style/pipeline_text"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:gravity="center_vertical"
+            android:paddingLeft="10dp"
+            android:text="位置描述信息" />
+
+        <TextView
+            android:id="@+id/mywork_dialog_isUsing"
+            style="@style/pipeline_text"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:gravity="center_vertical"
+            android:paddingLeft="10dp"
+            android:text="位置描述信息" />
+        <!--
+                        <TextView 
+		        android:id="@+id/mywork_dialog_useDate"
+		        android:layout_width="match_parent"
+		        android:layout_height="40dp"
+		        style="@style/pipeline_text"
+		        android:paddingLeft="10dp"
+		        android:gravity="center_vertical"
+		        android:text="位置描述信息"
+		        />
+                           <TextView 
+		        android:id="@+id/mywork_dialog_telephone"
+		        android:layout_width="match_parent"
+		        android:layout_height="40dp"
+		        style="@style/pipeline_text"
+		        android:paddingLeft="10dp"
+		        android:gravity="center_vertical"
+		        android:text="位置描述信息"
+		        />        -->
+
+    </LinearLayout>
+
+</LinearLayout>

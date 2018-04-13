@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_bg_blue"
+    android:orientation="vertical" >
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/title_statistics" >
+
+        <Button
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/back_selector" />
+
+        <Button
+            android:id="@+id/main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/main_selector" />
+    </RelativeLayout>
+ <RelativeLayout
+        android:id="@+id/line_infosearch_bt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:gravity="center_horizontal" >
+
+        <RelativeLayout
+            android:id="@+id/eventup_bt_relayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/eventup_bt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/menu_statistics_problem_selector" />
+
+            <TextView
+                android:id="@+id/eventup_bt_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/eventup_bt"
+                android:layout_alignRight="@id/eventup_bt"
+                android:layout_below="@id/eventup_bt"
+                android:gravity="center_horizontal"
+                android:text="巡检事件上报统计"
+                style="@style/bt_below_text" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/quipment_bt_relayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="60dp"
+            android:layout_toRightOf="@+id/eventup_bt_relayout" >
+
+            <Button
+                android:id="@+id/quipment_bt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/menu_statistics_device_selector" />
+
+            <TextView
+                android:id="@+id/quipment_bt_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/quipment_bt"
+                android:layout_alignRight="@id/quipment_bt"
+                android:layout_below="@id/quipment_bt"
+                android:gravity="center_horizontal"
+                android:text="设备使用状况统计"
+                style="@style/bt_below_text">
+                
+            </TextView>"
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/infosearch_bt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:gravity="center_horizontal" >
+
+        <RelativeLayout
+            android:id="@+id/qualified_bt_relayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/qualified_bt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/menu_statistics_qualifiedrate_selector" />
+
+            <TextView
+                android:id="@+id/qualified_bt_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/qualified_bt"
+                android:layout_alignRight="@id/qualified_bt"
+                android:layout_below="@id/qualified_bt"
+                android:gravity="center_horizontal"
+                android:text="巡检合格率"
+                style="@style/bt_below_text"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/corrosive_bt_relayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="60dp"
+            android:layout_toRightOf="@+id/qualified_bt_relayout" >
+
+            <Button
+                android:id="@+id/unqualified_bt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/menu_statistics_unqualified_person_selector" />
+
+            <TextView
+                android:id="@+id/unqualified_bt_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/unqualified_bt"
+                android:layout_alignRight="@id/unqualified_bt"
+                android:layout_below="@id/unqualified_bt"
+                android:gravity="center_horizontal"
+                android:text="不合格巡检人员统计"
+                style="@style/bt_below_text" />
+        </RelativeLayout>
+    </RelativeLayout>
+</LinearLayout>

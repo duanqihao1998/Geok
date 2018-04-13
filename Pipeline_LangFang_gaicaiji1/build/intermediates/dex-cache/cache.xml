@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\DQH\Pipeline_LangFang_gaicaiji1\app\libs\javax.persistence.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d34bb0a69cf41f0409269399bd9da78242f1169c">
+        <dex dex="D:\DQH\Pipeline_LangFang_gaicaiji1\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DQH\Pipeline_LangFang_gaicaiji1\app\libs\ksoap2-android-assembly-2.5.4-jar-with-dependencies.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a7bad1621042e11ec47a295ab9aa9f904ece8078">
+        <dex dex="D:\DQH\Pipeline_LangFang_gaicaiji1\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ydb\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\DQH\Pipeline_LangFang_gaicaiji1\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DQH\Pipeline_LangFang_gaicaiji1\app\libs\tianditu2.0.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="27.0.3"
+        sha1="51a9b6e23f4b9dabbc5ab62143d1f73425f146dd">
+        <dex dex="D:\DQH\Pipeline_LangFang_gaicaiji1\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DQH\Pipeline_LangFang_gaicaiji1\app\libs\jxl.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="27.0.3"
+        sha1="955fa72ef2e3d5a45db59d84802401f75bc973a5">
+        <dex dex="D:\DQH\Pipeline_LangFang_gaicaiji1\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DQH\Pipeline_LangFang_gaicaiji1\app\libs\achartengine-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="D:\DQH\Pipeline_LangFang_gaicaiji1\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DQH\Pipeline_LangFang_gaicaiji1\app\libs\jackson-mapper-lgpl-1.9.5.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ffbb48e87fa5e9107c17aaa0616f724d785a4d71">
+        <dex dex="D:\DQH\Pipeline_LangFang_gaicaiji1\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DQH\Pipeline_LangFang_gaicaiji1\app\libs\jpush-sdk-release1.5.5.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4286791fafcbc184fac137737f1d50d199aa82d1">
+        <dex dex="D:\DQH\Pipeline_LangFang_gaicaiji1\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DQH\Pipeline_LangFang_gaicaiji1\app\libs\locSDK_3.3.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="27.0.3"
+        sha1="590d32bdf5bb37ee372a21696b8f7853b224e31f">
+        <dex dex="D:\DQH\Pipeline_LangFang_gaicaiji1\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DQH\Pipeline_LangFang_gaicaiji1\app\libs\ArcGIS_Android.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="27.0.3"
+        sha1="814473be6096d89c707c5e5caf945ef0fc08140a">
+        <dex dex="D:\DQH\Pipeline_LangFang_gaicaiji1\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DQH\Pipeline_LangFang_gaicaiji1\app\libs\baidumapapi_v2_4_0.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e7e3af552405ebe0e012f3d4f83f80a9c96b6a7d">
+        <dex dex="D:\DQH\Pipeline_LangFang_gaicaiji1\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/work_tittle_text"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:background="@color/blue"
+        android:gravity="center_vertical"
+        android:paddingLeft="15dp"
+        android:text="任务一"
+        android:textColor="#ffffff"
+        android:textSize="17sp" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TableRow
+            android:paddingLeft="10dp"
+            android:paddingTop="5dp" >
+
+            <TextView
+                style="@style/pipeline_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="巡检时间：" />
+
+            <TextView
+                android:id="@+id/work_time_text"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="8:30至9:30" />
+        </TableRow>
+
+        <TableRow
+            android:paddingLeft="10dp"
+            android:paddingTop="5dp" >
+
+            <TextView
+                style="@style/pipeline_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="巡检线路：" />
+
+            <TextView
+                android:id="@+id/work_line_text"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="兰成渝干线K230至K234" />
+        </TableRow>
+
+        <TableRow
+            android:paddingLeft="10dp"
+            android:paddingTop="5dp" >
+
+            <TextView
+                style="@style/pipeline_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="巡检频次：" />
+
+            <TextView
+                android:id="@+id/work_fre_text"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1次/天" />
+        </TableRow>
+    </TableLayout>
+
+</LinearLayout>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_bg_blue"
+     >
+    <RelativeLayout
+        android:id="@+id/eventup_tile"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/title_statistic_problem" >
+
+        <Button
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/back_selector" />
+
+        <Button
+            android:id="@+id/main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/main_selector" />
+    </RelativeLayout>
+	<LinearLayout 
+	    android:id="@+id/startDate_layout"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@id/eventup_tile"
+	    android:orientation="horizontal"
+	    android:layout_marginTop="20dip"
+	    android:paddingLeft="10dip"
+	    android:paddingRight="10dip"
+	    >
+	     <TextView
+                style="@style/pipeline_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="起始日期：" />
+
+            <RelativeLayout
+                android:id="@+id/eventup_startdate"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/listitem_selector"
+                android:clickable="true" >
+
+                <TextView
+                    android:id="@+id/startDate_text"
+                    style="@style/pipeline_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:hint="起始日期" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:paddingRight="10dp"
+                    android:scaleType="center"
+                    android:src="@drawable/calendar" />
+            </RelativeLayout>
+	</LinearLayout>
+	<LinearLayout 
+	    android:id="@+id/endDate_layout"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@id/startDate_layout"
+	    android:orientation="horizontal"
+	    android:layout_marginTop="10dip"
+	    android:paddingLeft="10dip"
+	    android:paddingRight="10dip"
+	    >
+	     <TextView
+                style="@style/pipeline_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="结束日期：" />
+
+            <RelativeLayout
+                android:id="@+id/eventup_enddate"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/listitem_selector"
+                android:clickable="true" >
+
+                <TextView
+                    android:id="@+id/endDate_text"
+                    style="@style/pipeline_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:hint="结束日期" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:paddingRight="10dp"
+                    android:scaleType="center"
+                    android:src="@drawable/calendar" />
+            </RelativeLayout>
+	</LinearLayout>
+	
+	<LinearLayout 
+	    android:id="@+id/person_layout"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@id/endDate_layout"
+	    android:orientation="horizontal"
+	    android:layout_marginTop="10dip"
+	    android:paddingLeft="10dip"
+	    android:paddingRight="10dip"
+	    >
+	     <TextView
+                style="@style/pipeline_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="选择人员：" />
+
+            <RelativeLayout
+                android:id="@+id/eventup_person"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/listitem_selector"
+                android:clickable="true" >
+
+                <TextView
+                     android:id="@+id/person_text"
+                    style="@style/pipeline_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:hint="选择人员" />
+
+            </RelativeLayout>
+	</LinearLayout>
+	<Button 
+	    android:id="@+id/eventup_search"
+	    android:layout_width="80dip"
+	    android:layout_height="wrap_content"
+	    android:text="搜索"
+	    android:layout_below="@id/person_layout"
+	    android:layout_alignRight="@id/person_layout"
+	    android:layout_marginRight="20dip"
+	    android:layout_marginTop="10dip"
+	    android:background="@drawable/btn_press"
+	    />
+</RelativeLayout>

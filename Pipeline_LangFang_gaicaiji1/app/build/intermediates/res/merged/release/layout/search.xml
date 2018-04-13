@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/map_top_bg"
+    android:orientation="vertical"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp" >
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/search_pile"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="桩"
+            android:textColor="#2B2B2B"
+            android:checked="true"
+             />
+
+        <RadioButton
+            android:id="@+id/search_line"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="线路"
+            android:textColor="#2B2B2B" />
+    </RadioGroup>
+
+    <EditText
+        android:id="@+id/search_edit"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:hint="搜索："
+        />
+
+    <Button
+        android:id="@+id/search_button"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:text="搜索" />
+
+</LinearLayout>

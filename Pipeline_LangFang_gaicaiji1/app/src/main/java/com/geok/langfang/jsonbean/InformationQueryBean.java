@@ -1,0 +1,172 @@
+package com.geok.langfang.jsonbean;
+
+public class InformationQueryBean {
+	/**
+	 * 管线详细信息: 管线名称：LINELOOPNAME 输送介质：MEDIUMTYPE 管网类型：干线LINETYPE 长度(km)：LENGTH
+	 * 管径：DIAMETER 壁厚(mm)：WALLTHICKNESS 设计压力(MPa)：DESIGNPRESS
+	 * 防腐状况：ANTISEPSISCONDITION 管材：PIPE 站场总数：STATIONNUM 压气站数：GASCOMPRESSION
+	 * 泵站数:PUMPSTATION 清管站数：LINETRUNCATIONVALUEROOM 线路截断阀室(座)：PIGSTATIONS
+	 * 固定资产原值：ORIGINALFIXEDASSETS
+	 */
+	String LINELOOPNAME;
+	String MEDIUMTYPE;
+	String LINETYPE;
+	String LENGTH;
+	String DIAMETER;
+	String WALLTHICKNESS;
+	String DESIGNPRESS;
+	String ANTISEPSISCONDITION;
+	String PIPE;
+	String STATIONNUM;
+	String GASCOMPRESSION;
+	String PUMPSTATION;
+	String LINETRUNCATIONVALUEROOM;
+	String PIGSTATIONS;
+	String ORIGINALFIXEDASSETS;
+
+	public InformationQueryBean() {
+	}
+
+	public InformationQueryBean(String LINELOOPNAME, String MEDIUMTYPE, String LINETYPE,
+			String LENGTH, String DIAMETER, String WALLTHICKNESS, String DESIGNPRESS,
+			String ANTISEPSISCONDITION, String PIPE, String STATIONNUM, String GASCOMPRESSION,
+			String PUMPSTATION, String LINETRUNCATIONVALUEROOM, String PIGSTATIONS,
+			String ORIGINALFIXEDASSETS) {
+		this.LINELOOPNAME = LINELOOPNAME;
+		this.MEDIUMTYPE = MEDIUMTYPE;
+		this.LINETYPE = LINETYPE;
+		this.LENGTH = LENGTH;
+		this.DIAMETER = DIAMETER;
+		this.WALLTHICKNESS = WALLTHICKNESS;
+		this.DESIGNPRESS = DESIGNPRESS;
+		this.ANTISEPSISCONDITION = ANTISEPSISCONDITION;
+		this.PIPE = PIPE;
+		this.STATIONNUM = STATIONNUM;
+		this.GASCOMPRESSION = GASCOMPRESSION;
+		this.LINETRUNCATIONVALUEROOM = LINETRUNCATIONVALUEROOM;
+		this.PIGSTATIONS = PIGSTATIONS;
+		this.ORIGINALFIXEDASSETS = ORIGINALFIXEDASSETS;
+		this.PUMPSTATION = PUMPSTATION;
+	}
+
+	public String getLINELOOPNAME() {
+		return LINELOOPNAME;
+	}
+
+	public void setLINELOOPNAME(String lINELOOPNAME) {
+		LINELOOPNAME = lINELOOPNAME;
+	}
+
+	public String getMEDIUMTYPE() {
+		return MEDIUMTYPE;
+	}
+
+	public void setMEDIUMTYPE(String mEDIUMTYPE) {
+		MEDIUMTYPE = mEDIUMTYPE;
+	}
+
+	public String getPUMPSTATION() {
+		return PUMPSTATION;
+	}
+
+	public void setPUMPSTATION(String pUMPSTATION) {
+		PUMPSTATION = pUMPSTATION;
+	}
+
+	public String getLINETYPE() {
+		return LINETYPE;
+	}
+
+	public void setLINETYPE(String lINETYPE) {
+		LINETYPE = lINETYPE;
+	}
+
+	public String getLENGTH() {
+		return LENGTH;
+	}
+
+	public void setLENGTH(String lENGTH) {
+		LENGTH = lENGTH;
+	}
+
+	public String getDIAMETER() {
+		return DIAMETER;
+	}
+
+	public void setDIAMETER(String dIAMETER) {
+		DIAMETER = dIAMETER;
+	}
+
+	public String getWALLTHICKNESS() {
+		return WALLTHICKNESS;
+	}
+
+	public void setWALLTHICKNESS(String wALLTHICKNESS) {
+		WALLTHICKNESS = wALLTHICKNESS;
+	}
+
+	public String getDESIGNPRESS() {
+		return DESIGNPRESS;
+	}
+
+	public void setDESIGNPRESS(String dESIGNPRESS) {
+		DESIGNPRESS = dESIGNPRESS;
+	}
+
+	public String getANTISEPSISCONDITION() {
+		return ANTISEPSISCONDITION;
+	}
+
+	public void setANTISEPSISCONDITION(String aNTISEPSISCONDITION) {
+		ANTISEPSISCONDITION = aNTISEPSISCONDITION;
+	}
+
+	public String getPIPE() {
+		return PIPE;
+	}
+
+	public void setPIPE(String pIPE) {
+		PIPE = pIPE;
+	}
+
+	public String getSTATIONNUM() {
+		return STATIONNUM;
+	}
+
+	public void setSTATIONNUM(String sTATIONNUM) {
+		STATIONNUM = sTATIONNUM;
+	}
+
+	public String getGASCOMPRESSION() {
+		return GASCOMPRESSION;
+	}
+
+	public void setGASCOMPRESSION(String gASCOMPRESSION) {
+		GASCOMPRESSION = gASCOMPRESSION;
+	}
+
+	public String getLINETRUNCATIONVALUEROOM() {
+		return LINETRUNCATIONVALUEROOM;
+	}
+
+	public void setLINETRUNCATIONVALUEROOM(String lINETRUNCATIONVALUEROOM) {
+		LINETRUNCATIONVALUEROOM = lINETRUNCATIONVALUEROOM;
+	}
+
+	public String getPIGSTATIONS() {
+		return PIGSTATIONS;
+	}
+
+	public void setPIGSTATIONS(String pIGSTATIONS) {
+		PIGSTATIONS = pIGSTATIONS;
+	}
+
+	public String getORIGINALFIXEDASSETS() {
+		return ORIGINALFIXEDASSETS;
+	}
+
+	public void setORIGINALFIXEDASSETS(String oRIGINALFIXEDASSETS) {
+		ORIGINALFIXEDASSETS = oRIGINALFIXEDASSETS;
+	}
+
+}

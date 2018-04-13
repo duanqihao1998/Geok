@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="damagetype">
+        <item>漏洞</item>
+        <item>断裂</item>
+    </string-array>
+    <string-array name="ground">
+        <item> 年份</item>
+        <item> 上下半年</item>
+        <item> 线路</item>
+        <item> 桩号</item>
+        <item> 电阻值</item>
+        <item> 规定值</item>
+        <item> 测试人</item>
+        <item> 测试时间</item>
+    </string-array>
+    <string-array name="halfyear">
+        <item>上半年</item>
+        <item>下半年</item>
+    </string-array>
+    <string-array name="line">
+        <item>兰成渝干线</item>
+        <item>兰成渝支线</item>
+        <item>二道沟干线</item>
+        <item>二道沟支线</item>
+    </string-array>
+    <string-array name="month">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="pile">
+        <item>K30</item>
+        <item>K31</item>
+        <item>K32</item>
+        <item>K33</item>
+        <item>K34</item>
+        <item>K35</item>
+        <item>K36</item>
+        <item>K36+340m</item>
+    </string-array>
+    <string-array name="repairtype">
+        <item>补漏</item>
+        <item>新换</item>
+    </string-array>
+    <string-array name="time_interval">
+        <item>15秒</item>
+        <item>30秒</item>
+        <item>60秒</item>
+    </string-array>
+    <string-array name="year">
+        <item>2012年</item>
+        <item>2013年</item>
+        <item>2014年</item>
+        <item>2015年</item>
+        <item>2016年</item>
+        <item>2017年</item>
+        <item>2018年</item>
+        <item>2019年</item>
+        <item>2020年</item>
+        <item>2021年</item>
+    </string-array>
+    <color name="black">#000000</color>
+    <color name="blue">#1C86EE</color>
+    <color name="offnet">#FFEFDB</color>
+    <color name="progressdialog">#4F86BF</color>
+    <color name="red">#FF0000</color>
+    <color name="white">#FCFCFC</color>
+    <color name="yellow">#FFD39B</color>
+    <declare-styleable name="MyButton"><attr format="reference" name="src"/><attr format="reference" name="text"/><attr format="dimension" name="textSize"/></declare-styleable>
+    <declare-styleable name="Panel"><attr format="integer" name="animationDuration"/><attr name="position">
+
+            
+            <enum name="top" value="0"/>
+            
+            <enum name="bottom" value="1"/>
+            
+            <enum name="left" value="2"/>
+            
+            <enum name="right" value="3"/>
+        </attr><attr format="reference" name="handle"/><attr format="reference" name="content"/><attr format="boolean" name="linearFlying"/><attr format="fraction" name="weight"/><attr format="reference|color" name="openedHandle"/><attr format="reference|color" name="closedHandle"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="accept">完成巡检</string>
+    <string name="app_name">管道巡检系统</string>
+    <string name="batch_del">批量删除</string>
+    <string name="batch_up">批量上报</string>
+    <string name="befor">上一桩</string>
+    <string name="check">全选</string>
+    <string name="checkbox_auto">自动登录</string>
+    <string name="checkbox_passwd">记住密码</string>
+    <string name="hello">Hello World, PileLineActivity!</string>
+    <string name="login_auto">自动登录</string>
+    <string name="login_offline">离线登录</string>
+    <string name="login_online">在线登录</string>
+    <string name="login_password">记住密码</string>
+    <string name="next">下一桩</string>
+    <string name="nocheck">全不选</string>
+    <string name="offline">离线登录</string>
+    <string name="online">在线登录</string>
+    <string name="passWord_Edit">输入密码</string>
+    <string name="pause">暂停巡检</string>
+    <string name="reset">重置</string>
+    <string name="save">保存</string>
+    <string name="start">开始巡检</string>
+    <string name="upload">上报</string>
+    <string name="userName_Edit">输入邮箱地址</string>
+    <style name="CustomActivityDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="CustomDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+    </style>
+    <style name="CustomProgressDialog" parent="@style/CustomDialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="Dialog" parent="android:style/Theme.Dialog">
+		<item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+	</style>
+    <style name="DialogText">
+        <item name="android:textColor">#FF000000</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="DialogText.Title">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="MyCheckBox" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">#148BC5</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:button">@drawable/checbox_selector</item>
+    </style>
+    <style name="bt_below_text" parent="@android:style/TextAppearance.Widget.TextView">
+        <item name="android:textColor">#1b52ab</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="bt_text">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <style name="checbox_text" parent="@android:style/TextAppearance.Widget.TextView">
+        <item name="android:textColor">#555555</item>
+        <item name="android:paddingLeft">15dp</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+    <style name="circle_text" parent="@android:style/TextAppearance.Widget.TextView">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="datalist_text">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">#00000000</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="long_text">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="map_message">
+	    <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#000000</item>
+	</style>
+    <style name="pipeline_text" parent="@android:style/TextAppearance.Widget.TextView">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="radiobutton_text">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#555555</item>
+    </style>
+    <style name="tittle_text" parent="@android:style/TextAppearance.Widget.TextView">
+        <item name="android:textColor">#1b52ab</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/select_list_selector" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp" >
+
+        <TextView
+            android:id="@+id/data_history_list_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:text="发生时间：2012年12月21日 9：50"
+            android:textColor="#000000"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/data_history_list_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/data_history_list_1"
+            android:text="管线位置：涩宁线干线 k320——340"
+            android:textColor="#000000"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/data_history_list_3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/data_history_list_2"
+            android:text="上报人：利特卫斯理"
+            android:textColor="#000000"
+            android:textSize="13sp" />
+
+        <LinearLayout 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/data_history_list_3"
+            android:layout_alignParentRight="true"
+            android:orientation="horizontal"
+            android:layout_marginBottom="5dip"
+            >
+            <TextView
+	            android:id="@+id/data_history_list_4"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_marginRight="5dp"
+	            android:text="已上报"
+	            android:textColor="#000000"
+	            android:textSize="13sp" 
+	         />
+        	<CheckBox 
+	            android:id="@+id/data_history_list_5"
+	            android:layout_width="30dip"
+	            android:layout_height="30dip"
+	            android:layout_marginRight="5dp"
+	            android:layout_marginBottom="5dp"
+	            android:background="@drawable/check_off"
+	            android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+	            android:clickable="true" 
+				android:focusable="false"
+				android:visibility="gone"
+				android:button="@null"
+            />
+            
+        </LinearLayout>
+        
+    </RelativeLayout>
+
+</RelativeLayout>

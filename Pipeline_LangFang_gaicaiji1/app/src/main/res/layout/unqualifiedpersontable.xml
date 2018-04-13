@@ -1,0 +1,118 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/unqualifiedtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="不合格巡检员统计表 "
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+	<ScrollView android:id="@+id/ScrollView01" 
+   			 android:layout_width="wrap_content" 
+    		android:layout_height="wrap_content"
+    		android:scrollbarStyle="outsideOverlay"
+    		> 
+    <TableLayout
+        android:id="@+id/unqualified_table1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#8a8989"
+        android:shrinkColumns="1"        
+         >
+        <TableRow
+            android:id="@+id/unqualified_title"
+            android:layout_margin="0.25dp"
+            android:background="#8a8989" >
+
+            <TextView
+                android:id="@+id/title_num"
+                android:background="#ffffff"
+                android:gravity="center"
+                android:text="序号"
+                style="@style/datalist_text"
+                />
+
+            <TextView
+                android:background="#ffffff"
+                android:gravity="center"
+                android:text="所属部门"
+                style="@style/datalist_text"/>
+
+            <TextView
+                android:background="#ffffff"
+                android:gravity="center"
+                android:text="巡检人员"
+                style="@style/datalist_text" />
+
+            <TextView
+                android:background="#ffffff"
+                android:gravity="center"
+                android:text="不合格率"
+                style="@style/datalist_text" />
+        </TableRow>
+    </TableLayout>
+	</ScrollView>
+	<!-- 
+	<ScrollView android:id="@+id/ScrollView01" 
+   			 android:layout_width="wrap_content" 
+    		android:layout_height="wrap_content"> 
+    <TableLayout
+        android:id="@+id/unqualified_tablelayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#8a8989"
+        android:stretchColumns="*" 
+        >
+        <TableRow
+            android:layout_margin="0.25dp"
+            android:background="#8a8989"
+            >
+            <TextView
+                android:id="@+id/unqualified_num"
+                android:layout_width="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginLeft="1dp"
+                android:layout_marginRight="1dp"
+                android:background="#ffffff"
+                android:text=""
+                style="@style/datalist_text" />
+
+            <TextView
+                android:id="@+id/unqualified_department"
+                android:layout_width="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginRight="1dp"
+                android:background="#ffffff"
+                android:text=""
+                style="@style/datalist_text" />
+
+            <TextView
+                android:id="@+id/unqualified_inspector"
+                android:layout_width="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginRight="1dp"
+                android:background="#ffffff"
+                android:text=""
+                style="@style/datalist_text" />
+
+            <TextView
+                android:id="@+id/unqualified_rate"
+                android:layout_width="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginRight="1dp"
+                android:background="#ffffff"
+                android:text=""
+                style="@style/datalist_text" />
+        </TableRow>
+    </TableLayout>
+</ScrollView>  
+ -->
+
+</LinearLayout>

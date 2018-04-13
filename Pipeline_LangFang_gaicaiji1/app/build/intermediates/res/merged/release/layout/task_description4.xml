@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TableRow
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/circle_cornor_line_gray" >
+
+        <TextView
+            style="@style/pipeline_text"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dp"
+            android:text="平均时速：" />
+
+        <TextView
+            android:id="@+id/insepction_speed"
+            style="@style/pipeline_text"
+            android:layout_width="130dp"
+            android:layout_height="35dp"
+            android:gravity="right"
+            android:text="50km/h" />
+    </TableRow>
+
+</TableLayout>

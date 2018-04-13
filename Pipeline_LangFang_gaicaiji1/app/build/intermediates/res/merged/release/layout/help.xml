@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_bg"
+    android:orientation="vertical" >
+
+    
+    <RelativeLayout  
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/title_help"
+        android:layout_alignParentTop="true"
+        android:id="@+id/title_help"
+        >
+         <Button 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/back_selector"
+            android:id="@+id/back"
+            />
+            <Button 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/main_selector"
+            android:id="@+id/main"
+            />
+     </RelativeLayout>
+     
+    <TextView 
+        android:id="@+id/text_help"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_below="@id/title_help"
+        android:layout_margin="20dp"
+        android:text="内容"
+        style = "@style/long_text"
+        />
+    	<LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_alignParentBottom="true"
+                android:gravity="center">
+
+                <Button
+                    android:id="@+id/update"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/btn_press"
+                    android:gravity="center"
+                    android:text="检查更新"
+                    android:layout_gravity="center"
+                    style = "@style/bt_text"
+                     />
+
+                
+            </LinearLayout>
+
+</RelativeLayout>

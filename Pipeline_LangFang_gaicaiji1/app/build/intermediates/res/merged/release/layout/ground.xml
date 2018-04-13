@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:panel="http://schemas.android.com/apk/res/com.geok.langfang.pipeline"
+    xmlns:btn="http://schemas.android.com/apk/res/com.geok.langfang.pipeline"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="ResAuto">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/main_bg" >
+
+        <RelativeLayout
+            android:id="@+id/mywork_tittle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/title_ground" >
+
+            <Button
+                android:id="@+id/back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="5dp"
+                android:background="@drawable/back_selector" />
+
+            <Button
+                android:id="@+id/main"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="5dp"
+                android:background="@drawable/main_selector" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/mywork1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/mywork_tittle"
+            android:orientation="horizontal"
+            android:paddingLeft="20dp" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:src="@drawable/tittle_pic" />
+
+            <TextView
+                style="@style/tittle_text"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:paddingLeft="10dp"
+                android:text="接地电阻测试" />
+        </LinearLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/mywork1" >
+
+            <LinearLayout
+                android:id="@+id/protect_scroll"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/circle_cornor_line"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:id="@+id/ground_year"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/listitem_selector" >
+
+                    <include layout="@layout/asterisk" />
+
+                    <TextView
+                        style="@style/pipeline_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:paddingLeft="10dp"
+                        android:text="年 份：" />
+
+                    <TextView
+                        android:id="@+id/text_year"
+                        style="@style/pipeline_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:singleLine="true"
+                        android:text="选择年份" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:paddingRight="5dp"
+                        android:src="@drawable/arrow" />
+                </RelativeLayout>
+                <RelativeLayout
+                    android:id="@+id/ground_halfyear"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="3dp"
+                    android:background="@drawable/listitem_selector" >
+
+                    <include layout="@layout/asterisk" />
+
+                    <TextView
+                        style="@style/pipeline_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:paddingLeft="10dp"
+                        android:text="半 年：" />
+
+                    <TextView
+                        android:id="@+id/text_halfyear"
+                        style="@style/pipeline_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:singleLine="true"
+                        android:text="选择半年" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:paddingRight="5dp"
+                        android:src="@drawable/arrow" />
+                </RelativeLayout>
+                <RelativeLayout
+                    android:id="@+id/ground_test_time"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="3dp"
+                    android:background="@drawable/listitem_selector"
+                    android:clickable="true" >
+
+                    <include layout="@layout/asterisk" />
+
+                    <TextView
+                        style="@style/pipeline_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="40dp"
+                        android:layout_alignParentLeft="true"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="10dp"
+                        android:text="测试时间：" />
+
+                    <TextView
+                        android:id="@+id/ground_test_time_text"
+                        style="@style/pipeline_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:text="填写测试时间" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:paddingRight="10dp"
+                        android:scaleType="center"
+                        android:src="@drawable/calendar" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/ground_set_value"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="3dp"
+                    android:background="@drawable/listitem_selector"
+                    android:clickable="true" >
+
+                    <include layout="@layout/asterisk" />
+
+                    <TextView
+                        style="@style/pipeline_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="40dp"
+                        android:layout_alignParentLeft="true"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="10dp"
+                        android:text="规定值（Ｒ）：" />
+
+                    <TextView
+                        android:id="@+id/text_set_value"
+                        style="@style/pipeline_text"
+                        android:layout_width="120sp"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:gravity="right|center_vertical"
+                        android:paddingRight="10dp"
+                        android:singleLine="true"
+                        android:text="填写规定值" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/ground_test_value"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="3dp"
+                    android:background="@drawable/listitem_selector"
+                    android:clickable="true" >
+
+                    <include layout="@layout/asterisk" />
+
+                    <TextView
+                        style="@style/pipeline_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="40dp"
+                        android:layout_alignParentLeft="true"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="10dp"
+                        android:text="测试值（Ｒ）：" />
+
+                    <TextView
+                        android:id="@+id/text_test_value"
+                        style="@style/pipeline_text"
+                        android:layout_width="120sp"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:gravity="right|center_vertical"
+                        android:paddingRight="10dp"
+                        android:singleLine="true"
+                        android:text="填写测试值" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/ground_conclusion"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="3dp"
+                    android:background="@drawable/listitem_selector"
+                    android:clickable="true" >
+
+                    <include layout="@layout/asterisk" />
+
+                    <TextView
+                        style="@style/pipeline_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="40dp"
+                        android:layout_alignParentLeft="true"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="10dp"
+                        android:text="结论：" />
+
+                    <TextView
+                        android:id="@+id/text_conclusion"
+                        style="@style/pipeline_text"
+                        android:layout_width="120sp"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:gravity="right|center_vertical"
+                        android:paddingRight="10dp"
+                        android:singleLine="true"
+                        android:text="填写结论" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/ground_cpgroundbed"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="3dp"
+                    android:background="@drawable/listitem_selector" >
+
+                    <include layout="@layout/asterisk" />
+
+                    <TextView
+                        style="@style/pipeline_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:paddingLeft="10dp"
+                        android:text="地床编号：" />
+
+                    <TextView
+                        android:id="@+id/text_cpgroundbed"
+                        style="@style/pipeline_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:singleLine="true"
+                        android:text="选择地床编号" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:paddingRight="5dp"
+                        android:src="@drawable/arrow" />
+                </RelativeLayout>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp" />
+            </LinearLayout>
+        </ScrollView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/main_bg"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:orientation="horizontal" >
+
+                <com.geok.langfang.tools.MyImageButton
+                    android:id="@+id/bnew_ground"
+                    android:layout_width="100dp"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/btn_press"
+                    btn:src="@drawable/reset"
+                    btn:text="@string/reset" />
+
+                <com.geok.langfang.tools.MyImageButton
+                    android:id="@+id/bsave_ground"
+                    android:layout_width="100dp"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/btn_press"
+                    btn:src="@drawable/save"
+                    btn:text="@string/save" />
+
+                <com.geok.langfang.tools.MyImageButton
+                    android:id="@+id/bupload_ground"
+                    android:layout_width="100dp"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/btn_press"
+                    btn:src="@drawable/upcoming"
+                    btn:text="@string/upload" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <com.geok.langfang.tools.Panel
+        android:id="@+id/pipeline_panel"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_gravity="left"
+        panel:animationDuration="1000"
+        panel:closedHandle="@drawable/left_switcher_collapsed_background"
+        panel:content="@+id/panelContent"
+        panel:handle="@+id/panelHandle"
+        panel:linearFlying="true"
+        panel:openedHandle="@drawable/left_switcher_expanded_background"
+        panel:position="left" >
+
+        <Button
+            android:id="@+id/panelHandle"
+            android:layout_width="20dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />
+
+        <LinearLayout
+            android:id="@+id/panelContent"
+            android:layout_width="85dp"
+            android:layout_height="fill_parent"
+            android:background="@drawable/panel_bg"
+            android:orientation="vertical" >
+
+            <ListView
+                android:id="@+id/protect_panel_list"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:cacheColorHint="#00000000" >
+            </ListView>
+        </LinearLayout>
+    </com.geok.langfang.tools.Panel>
+
+</FrameLayout>

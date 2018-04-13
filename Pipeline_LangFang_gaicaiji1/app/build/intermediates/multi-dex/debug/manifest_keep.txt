@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:71
+-keep class com.geok.langfang.pipeline.ApplicationApp { <init>(...); }
+

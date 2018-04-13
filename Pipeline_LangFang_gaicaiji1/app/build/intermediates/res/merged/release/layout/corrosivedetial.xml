@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_bg" >
+
+    <RelativeLayout
+        android:id="@+id/corrosive_tittle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/title_corrosive" >
+
+        <Button
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/back_selector" />
+
+        <Button
+            android:id="@+id/main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/main_selector" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/corrosive_tittle" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/circle_cornor_line"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/corrosive_detial_line"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="线路：" />
+
+            <TextView
+                android:id="@+id/corrosive_detial_pile"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="桩号：" />
+
+            <TextView
+                android:id="@+id/corrosive_detial_offset"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="偏移量：" />
+
+            <TextView
+                android:id="@+id/corrosive_detial_repair_obj"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="修复对象：" />
+
+            <TextView
+                android:id="@+id/corrosive_detial_check_date"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="检漏时间：" />
+
+            <TextView
+                android:id="@+id/corrosive_detial_clockposition"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="环周位置：" />
+
+            <TextView
+                android:id="@+id/corrosive_detial_soil"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="土壤环境描述：" />
+
+            <TextView
+                android:id="@+id/corrosive_detial_damage_des"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="破损外观描述：" />
+
+            <TextView
+                android:id="@+id/corrosive_detial_area"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="破损面积：" />
+
+            <TextView
+                android:id="@+id/corrosive_detial_corrosion_des"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="金属腐蚀表面描述：" />
+
+            <TextView
+                android:id="@+id/corrosive_detial_corrosion_area"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="金属腐蚀面积：" />
+
+            <TextView
+                android:id="@+id/corrosive_detial_corrosion_num"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="金属腐蚀个数：" />
+
+            <TextView
+                android:id="@+id/corrosive_detial_pitdepthmax"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="腐蚀深度起始：" />
+
+            <TextView
+                android:id="@+id/corrosive_detial_pitdepthmin"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="腐蚀深度终止：" />
+
+            <TextView
+                android:id="@+id/corrosive_detial_repair_situation"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="防腐层修补处理情况：" />
+
+            <TextView
+                android:id="@+id/corrosive_detial_repair_date"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="补漏日期：" />
+
+            <TextView
+                android:id="@+id/corrosive_detial_damage_type"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="破损类型：" />
+
+            <TextView
+                android:id="@+id/corrosive_detial_repair_type"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="修复类型：" />
+
+            <TextView
+                android:id="@+id/corrosive_detial_pile_info"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="管道修复信息：" />
+
+            <TextView
+                android:id="@+id/corrosive_detial_remarks"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="备注：" />
+
+            <TextView
+                android:id="@+id/corrosive_detial_isupload"
+                style="@style/pipeline_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_cornor_line_white"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="是否上报服务器：" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="20dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

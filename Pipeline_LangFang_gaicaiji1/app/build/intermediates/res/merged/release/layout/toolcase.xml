@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_bg_blue"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/title_toolcase" >
+
+        <Button
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/back_selector" />
+
+        <Button
+            android:id="@+id/main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/main_selector" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/line_infosearch_bt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:gravity="center_horizontal" >
+
+        <RelativeLayout
+            android:id="@+id/compass_bt_relayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/compass_bt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bt_compass_selector" />
+
+            <TextView
+                android:id="@+id/compass_bt_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/compass_bt"
+                android:layout_alignRight="@id/compass_bt"
+                android:layout_below="@id/compass_bt"
+                android:gravity="center_horizontal"
+                android:text="电子罗盘"
+                android:textColor="#1b52ab"
+                android:textSize="13sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/barograph_bt_relayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_toRightOf="@+id/compass_bt_relayout" >
+
+            <Button
+                android:id="@+id/barograph_bt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bt_barograph_selector" />
+
+            <TextView
+                android:id="@+id/barograph_bt_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/barograph_bt"
+                android:layout_alignRight="@id/barograph_bt"
+                android:layout_below="@id/barograph_bt"
+                android:gravity="center_horizontal"
+                android:text="气压计"
+                android:textColor="#1b52ab"
+                android:textSize="13sp" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/infosearch_bt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:gravity="center_horizontal" >
+
+        <RelativeLayout
+            android:id="@+id/calculator_bt_relayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/calculator_bt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bt_calculator_selector" />
+
+            <TextView
+                android:id="@+id/calculator_bt_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/calculator_bt"
+                android:layout_alignRight="@id/calculator_bt"
+                android:layout_below="@id/calculator_bt"
+                android:gravity="center_horizontal"
+                android:text="计算器"
+                android:textColor="#1b52ab"
+                android:textSize="13sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/flashlight_bt_relayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_toRightOf="@+id/calculator_bt_relayout" >
+
+            <Button
+                android:id="@+id/flashlight_bt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bt_flashlight_selector" />
+
+            <TextView
+                android:id="@+id/flashlight_bt_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/flashlight_bt"
+                android:layout_alignRight="@id/flashlight_bt"
+                android:layout_below="@id/flashlight_bt"
+                android:gravity="center_horizontal"
+                android:text="手电筒"
+                android:textColor="#1b52ab"
+                android:textSize="13sp" />
+        </RelativeLayout>
+    </RelativeLayout>
+    
+    
+
+</LinearLayout>
